@@ -197,11 +197,11 @@ def knockknock(request):
         topic = "orange"
 
     fallback_joke = (
-        "Knock knock.\n"
-        "Who's there?\n"
-        f"{topic}.\n"
-        f"{topic} who?\n"
-        f"{topic.capitalize()} you glad this endpoint has a fallback joke?"
+        "Knock knock\n"
+        "Who's there\n"
+        f"{topic}\n"
+        f"{topic} who\n"
+        f"{topic.capitalize()} you glad this endpoint has a fallback joke"
     )
 
     api_key = os.environ.get("OPENAI_API_KEY")
@@ -234,6 +234,7 @@ def knockknock(request):
         response.raise_for_status()
         data = response.json()
         joke = data["choices"][0]["message"]["content"].strip()
+        joke = joke.replace("’", "'").replace("‘", "'")
         return HttpResponse(joke, content_type="text/plain", status=200)
     except Exception:
         return HttpResponse(fallback_joke, content_type="text/plain", status=200)
