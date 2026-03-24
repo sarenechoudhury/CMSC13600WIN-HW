@@ -16,10 +16,25 @@
             border: 1px solid #cccccc;
         }
 
-        label, input, select {
+        label, input {
             display: block;
             margin-bottom: 12px;
             width: 260px;
+        }
+
+        .radio-group {
+            margin-bottom: 12px;
+        }
+
+        .radio-group input {
+            width: auto;
+            display: inline;
+        }
+
+        .radio-group label {
+            display: inline;
+            width: auto;
+            margin-right: 15px;
         }
     </style>
 </head>
@@ -38,11 +53,14 @@
         <label for="password">Password</label>
         <input type="password" id="password" name="password" required>
 
-        <label for="is_curator">User Type</label>
-        <select id="is_curator" name="is_curator">
-            <option value="0">Harvester</option>
-            <option value="1">Curator</option>
-        </select>
+        <label>User Type</label>
+        <div class="radio-group">
+            <input type="radio" id="harvester" name="is_curator" value="0" checked>
+            <label for="harvester">Harvester</label>
+
+            <input type="radio" id="curator" name="is_curator" value="1">
+            <label for="curator">Curator</label>
+        </div>
 
         <input type="submit" value="Sign Up">
     </form>
