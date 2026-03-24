@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Uploads</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin-top: 40px;
+        }
+
+        .form-box {
+            display: inline-block;
+            text-align: left;
+            padding: 20px;
+            border: 1px solid #cccccc;
+            margin-bottom: 30px;
+        }
+
+        table {
+            margin: 0 auto;
+            border-collapse: collapse;
+            width: 80%;
+        }
+
+        th, td {
+            border: 1px solid #cccccc;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Uploads</h1>
+
+    <div class="form-box">
+        <form action="/app/api/upload/" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+
+            <label for="institution">Institution</label>
+            <input type="text" id="institution" name="institution" required><br><br>
+
+            <label for="year">Year</label>
+            <input type="text" id="year" name="year" required><br><br>
+
+            <label for="url">URL</label>
+            <input type="text" id="url" name="url"><br><br>
+
+            <label for="file">File</label>
+            <input type="file" id="file" name="file" required><br><br>
+
+            <button type="submit">Upload</button>
+        </form>
+    </div>
+
+    <h2>Existing Uploads</h2>
+
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>User</th>
+            <th>Institution</th>
+            <th>Year</th>
+            <th>URL</th>
+            <th>File</th>
+        </tr>
+        {% for upload in uploads %}
+        <tr>
+            <td>{{ upload.id }}</td>
+            <td>{{ upload.uploader.username }}</td>
+            <td>{{ upload.institution.name }}</td>
+            <td>{{ upload.reporting_year.label }}</td>
+            <td>{{ upload.url }}</td>
+            <td>{{ upload.uploaded_file.name }}</td>
+        </tr>
+        {% empty %}
+        <tr>
+            <td colspan="6">No uploads yet.</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

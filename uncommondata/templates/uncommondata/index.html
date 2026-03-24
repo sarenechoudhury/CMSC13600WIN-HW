@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UncommonData Home</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin-top: 40px;
+        }
+
+        .container {
+            width: 70%;
+            margin: auto;
+        }
+
+        .highlight-user {
+            font-weight: bold;
+            background-color: yellow;
+            padding: 2px 6px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to UncommonData</h1>
+
+        <p>
+            Hello! This project was built by Sarene Choudhury and teammates for CMSC 13600.
+            We are building a web app for managing educational institution data and user workflows.
+        </p>
+
+        <p>Current Chicago time: {{ current_time }}</p>
+
+        {% if user.is_authenticated %}
+            <p>
+                Logged in as
+                <span class="highlight-user">{{ user.username }}</span>
+            </p>
+            <p>You are currently signed in.</p>
+        {% else %}
+            <p>You are not currently logged in.</p>
+            <p>
+                <a href="/accounts/login/">Log in</a> |
+                <a href="/app/new/">Create a new account</a>
+            </p>
+        {% endif %}
+    </div>
+</body>
+</html>
