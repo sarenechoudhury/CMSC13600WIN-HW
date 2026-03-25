@@ -1,0 +1,1137 @@
+                                                     Common Data Set 202-202
+
+
+A1. Address Information
+
+
+     Name of College/University           University of Illinois Chicago
+
+     6WUHHW Address                        1200 West Harrison Street
+
+
+
+
+     City                                  Chicago
+
+     State                                Illinois
+
+     Zip                                   60607
+
+     Country                               United States
+
+     Main ,QVWLWXWLRQPhone Number        312                      996                        4350
+                                                  Area Code                   Phone Number              Extension
+
+     0DLQ,QVWLWXWLRQ:HEVLWH             www.uic.edu
+
+     0DLQ,QVWLWXWLRQ(PDLO              admissions@uic.edu
+
+
+3OHDVH HQWHU$GPLVVLRQV2IILFHLQIRUPDWLRQEHORZ
+
+     6WUHHW$GGUHVV LIGLIIHUHQW
+
+
+
+
+     City
+
+     State
+
+     Zip
+     Country
+
+     Admissions Phone Number            312                     996                          4350
+                                               Area Code                   Phone Number              Extension
+
+
+     Admissions Toll-Free
+     Phone Number
+                                               Area Code                   Phone Number              Extension
+
+
+
+     Admissions E-mail Address          admissions@uic.edu
+
+
+     If there is a separate URL for your school’s online application, please specify
+
+        https://admissions.uic.edu/apply-now
+
+
+     If you have a mailing address other than the RQH OLVWHG above to which applications should be sent,
+     please provide
+                                           Common Data Set 202-202
+
+
+
+
+A. 6RXUFHRILQVWLWXWLRQDOFRQWURO VHOHFWRQHRQO\
+           Public
+
+           Private (nonprofit)
+
+           Proprietary
+
+
+A3. Classify your undergraduate institution
+
+          Coeducational college
+
+          Men's college
+
+          Women's college
+
+
+A4. Academic year calendar
+
+
+           Semester                         Continuous
+
+           Quarter                          Differs by program (describe)
+
+           Trimester
+           4-1-4                           Other (describe)
+
+
+
+A5. Degrees offered by your institution
+           Certificate                 ✔    Post-bachelor's certificate
+
+           Diploma                     ✔    Master's
+                                       ✔    Post-master's certificate
+           Associate
+           Transfer Associate          ✔    Doctoral degree research/scholarship
+                                       ✔    Doctoral degree -- professional practice
+           Terminal Associate
+      ✔    Bachelor's                       Doctoral degree -- other
+
+
+ A6. Diversity, Equity, and Inclusion
+    If you have a diversity, equity, and inclusion office or department, please provide the URL of the corresponding
+    Web page:
+     https://diversity.uic.edu/
+                                                  Common Data Set 202-202
+
+
+                                       C. FIRST-TIME, FIRST-YEAR ADMISSION
+C1-C2: Applications
+C1. First-time, first-year students: Provide the number of degree-seeking, first-time, first-yearVWXGHQWV
+ZKRDSSOLHGZHUHDGPLWWHGDQGHQUROOHG IXOORUSDUWWLPH LQ)DOO
+
+   9Include early decision, early action, and students who began studies during summer in this cohort.
+
+   9Applicants should include only those students who fulfilled the requirements for consideration for admission (i.e., who
+     completed actionable applications) and who have been notified of one of the following actions: admission, non-
+     admission, placement on waiting list, or application withdrawn (by applicant or institution).
+
+   9Admitted applicants should include wait-listed students who were subsequently offered admission.
+
+   9Since the total may include students who did not provide gender data, the detail need not sum to the total.
+
+   9If your institution collects and reports non-binary gender data, please use the “Another Gender” category.
+   9Note that recent high school graduates and other students without prior postsecondary experience will still be
+     considered “first-time students” for fall enrollment reporting purposes even if they enrolled in the summer prior to
+     fall enrollment.
+
+   9 3URYLGHQXPEHUVRIVWXGHQWVIRUHDFKRIWKHIROORZLQJFDWHJRULHVDVRIWKHLQVWLWXWLRQ¶VRIILFLDOIDOOUHSRUWLQJGDWHRU
+     DVRI2FWREHU
+
+                          FIRST-TIME, FIRSTYEAR STUDENT APPLICANTS                                        TOTAL
+              Total first-time, first-year men who applied                                                 11727
+              Total first-time, first-year women who applied                                               15358
+              Total first-time, first-year of another gender who applied
+              Total first-time, first-year of XQNQRZQgender who applied
+
+                          FIRST-TIME, FIRSTYEAR STUDENT A'0,76                                            TOTAL
+              Total first-time, first-year men who were admitted                                            8636
+              Total first-time, first-year women who were admitted                                         12315
+              Total first-time, first-year of another gender who were admitted
+              Total first-time, first-year of XQNQRZQ gender who were admitted
+
+                          FIRST-TIME, FIRSTYEAR STUDENT (152//((6                                         TOTAL
+              Total first-time, first-year men who HQUROOHG                                                 2054
+              Total first-time, first-year women who HQUROOHG                                               2365
+              Total first-time, first-year of another gender who HQUROOHG
+              Total first-time, first-year ofXQNQRZQ gender who HQUROOHG
+
+                   FIRST-TIME, FIRSTYEAR STUDENT (152//((6%<67$786                                      TOTAL
+              Total full-time, first-time, first-year men who enrolled                                      2028
+              Total part-time, first-time, first-year men who enrolled                                        26
+              Total full-time, first-time, first-year women who enrolled                                    2332
+              Total part-time, first-time, first-year women who enrolled                                      33
+              Total full-time, first-time, first-year of another gender who enrolled
+              Total part-time, first-time, first-year of another gender who enrolled
+
+              Total IXOO-time, first-time, first-year oIXQNQRZQgender who enrolled
+               Total part-time, first-time, first-year oIXQNQRZQgender who enrolled
+                                                         Common Data Set 202-202
+
+
+
+
+,I DYDLODEOHSOHDVHSURYLGHUHVLGHQF\EUHDNGRZQV IRUWRWDODSSOLFDQWV DGPLWVDQGHQUROOHGVWXGHQWV)DOO
+
+
+ FIRST-TIME, FIRSTYEAR STUDENT $33/,&$176                        ,167$7( 2872) ,17(51$7,21$/ 81.12:1           727$/
+                                                                            67$7(
+Total first-time, first-year (degree-seeking) who applied          20390      4368            2327                 27085
+Total first-time, first-year (degree-seeking) who were admitted    16267        3492          1192                 20951
+Total first-time, first-year (degree-seeking) enrolled             3949         191           279                  4419
+
+
+
+
+     C2. )LUVWWLPHILUVW\HDUwait-listed students
+         9 Students who met admission requirements but whose final admission was contingent on space
+
+               availability) Do you have a policy of placing students on a waiting list? տ Yes տ
+                                                                                               ✔ No
+
+
+          If yes, please answer the questions below for Fall 202 admissions:
+
+                                                         WAITING LIST                                 TOTAL
+                     Number of qualified applicants offered a place on waiting list:
+                     Number accepting a place on the waiting list:
+                     Number of wait-listed students admitted:
+
+
+
+
+         Is your waiting list ranked?   տ Yes     տ No
+
+
+                    If yes, do you release that information to students?         տ Yes   տ No
+
+                    Do you release that information to school counselors?        տ Yes   տ No
+                                             Common Data Set 202-202
+
+
+
+C3-C5: Admission Requirements
+C3. High school completion requirement
+
+Check the appropriate box to identify your high school completion requirement for degree-seeking entering
+students:
+
+      տ
+      ✔
+        High school diploma is required and GED is accepted
+      տ High school diploma is required and GED is not accepted
+      տ High school diploma or equivalent is not required
+
+C4. Does your institution require or recommend a general college-preparatory program for degree-seeking
+students?
+
+      տ Require
+      տ
+      ✔
+        Recommend
+      տ Neither require nor recommend
+
+C5. Distribution of high school units required and/or recommended. Specify the distribution of academic high
+    school course units required and/or recommended of all or most degree-seeking students using Carnegie units
+    (one unit equals one year of study or its equivalent). If you use a different system for calculating units, please
+    convert.
+
+                                                        Units Required        Units Recommended
+
+                 Total academic units                         6.00                    16.00
+
+                 English                                                               4.00
+                 Mathematics                                  3.00                     4.00
+                 Science                                      3.00                     3.00
+                   Of these, units that must be lab
+
+                 Foreign language                                                      2.00
+                 Social studies                                                        3.00
+                 History
+                 Academic electives
+                 Computer Science
+                 Visual/Performing Arts
+                 Other (specify)
+                                            Common Data Set 202-202
+
+
+
+C6-C7: Basis for Selection
+C6. Do you have an open admission policy, under which virtually all secondary school graduates or students with
+    GED equivalency diplomas are admitted without regard to academic record, test scores, or other qualifications?
+
+If so, check which applies:
+
+      տ Open admission policy as described above for all students
+
+      Open admission policy as described above for most students, but
+
+            տ Selective admission for out-of-state students
+            տ Selective admission to some programs
+            տ Other (explain):
+
+C7. Relative importance of each of the following academic and nonacademic factors in your first-time, first-
+    year, degree-seeking general (not including programs with specific criteria) admission decisions.
+
+                                                                                                          Not
+                                            Very Important          Important        Considered
+                                                                                                       Considered
+ Academic
+      Rigor of secondary school record             տ
+                                                   ✔                    տ                 տ                 տ
+      Class rank                                   տ
+                                                   ✔                    տ                 տ                 տ
+      Academic GPA                                 տ
+                                                   ✔                    տ                 տ                 տ
+      Standardized test scores                     տ                    տ                 տ
+                                                                                          ✔                 տ
+      Application Essay                            տ                    տ
+                                                                        ✔                 տ                 տ
+      Recommendation V                             տ                    տ                 տ
+                                                                                          ✔                 տ
+ Nonacademic
+      Interview                                    տ                    տ                 տ                 տ
+                                                                                                            ✔
+
+      Extracurricular activities                   տ                    տ                 տ
+                                                                                          ✔                 տ
+      Talent/ability                               տ                    տ                 տ
+                                                                                          ✔                 տ
+      Character/personal qualities                 տ                    տ                 տ                 տ
+                                                                                                            ✔
+
+      First generation                             տ                    տ                 տ                 տ
+                                                                                                            ✔
+
+      Alumni/ae relation                           տ                    տ                 տ                 տ
+                                                                                                            ✔
+
+      Geographical residence                       տ                    տ                 տ                 տ
+                                                                                                            ✔
+
+      State residency                              տ                    տ                 տ                 տ
+                                                                                                            ✔
+
+      Religious affiliation/commitment             տ                    տ                 տ                 տ
+                                                                                                            ✔
+
+      Volunteer work                               տ                    տ                 տ                 տ
+                                                                                                            ✔
+
+      Work experience                              տ                    տ                 տ                 տ
+                                                                                                            ✔
+
+      Level of applicant’s interest                տ                    տ                 տ                 տ
+                                                                                                            ✔
+                                                Common Data Set 202-202
+
+
+   Please provide additional information if the importance of any specific academic or nonacademic
+   factors differ by academic program.
+
+
+
+
+C8: SAT and ACT Policies
+C8A. Entrance exams
+
+   Does your institution make use of SAT RUACT scores in admission decisions for first-time, first-year,
+   degree-seeking applicants:
+
+          տ Yes
+          ✔                տ No
+
+
+  If yes, place check marks in the appropriate boxes below to reflect your institution’s policies for use in
+  admission for Fall 202
+
+                                                                                    1RWUHTXLUHGIRU
+                              RequireGWREH                                        DGPLVVLRQEXW     1RWFRQVLGHUHG
+                              FRQVLGHUHGIRU     RequireG for    RecommendHG         FRQVLGHULI       IRUDGPLVVLRQ
+                                DGPLVVLRQ            VRPH                             VXEPLWWHG        HYHQLIVXEPLWWHG
+
+   SAT or ACT                                                                             ✔
+
+
+   ACT Only
+   SAT Only
+
+
+
+C8B. Has been removed from the CDS.
+
+C8C. Has been removed from the CDS.
+
+C8D. In addition, does your institution use applicants' test scores for academic advising?
+
+       ✔ Yes          No
+
+
+C8E.                                                                                          Month       Day
+
+       Latest date by which SAT or ACT scores must be received for fall-
+       term admission:
+
+
+
+ C8F. If necessary, use this space to clarify your test policies (e.g., if tests are recommended for some students,
+ or if tests are not required of some students due to differences by academic program, student academic
+ background, or if other examinations may be considered in lieu of the SAT and ACT.)
+                                              Common Data Set 202-202
+
+
+
+C8G. Please indicate which tests your institution uses for placement (e.g., state tests):
+
+                    տ
+                    ✔ SAT
+
+
+                    տ
+                    ✔
+                      ACT
+                    տ
+                    ✔
+                      AP
+                    տ CLEP
+                    ✔
+
+
+
+                    տ
+                    ✔ Institutional Exam
+
+
+                    տ
+                    ✔ State Exam (specify): State Seal of Biliteracy
+                                            Common Data Set 202-202
+
+
+
+C9-C12: )LUVWWLPHILUVW\HDU3URILOH
+Provide information for ALL enrolled, degree-seeking, full-time and part-time, first-time, first-year students
+enrolled in Fall 202, including students who began studies during summer, international students/
+nonresident, and students admitted under special arrangements.
+
+C9. Percent and number of first-time, first-year students enrolled in Fall 202 who submitted national
+standardized (SAT/ACT) test scores.
+
+    9   Include information for ALL enrolled, degree-seeking, first-time, first-year students who submitted
+        test scores.
+
+    9   Do not include partial test scores (e.g., mathematics scores but not critical reading for a category of
+        students) or combine other standardized test results (such as TOEFL) in this item.
+
+   9    Do not convert SAT scores to ACT scores and vice versa.
+
+   9    If a student submitted multiple sets of scores for a single test, report this information according to how you
+        use the data. For example:
+
+        x   If you consider the highest scores from either submission, use the highest combination of scores (e.g.,
+            verbal from one submission, math from the other).
+
+        x   If you average the scores, use the average to report the scores.
+
+                                                                                 Percent                Number
+
+             Submitting SAT Scores                                                 30.00                 1342
+             Submitting ACT Scores                                                 5.00                  201
+
+
+For each assessment listed below, report the score that represents the 25th percentile (the score that
+25 percent of the fLUVWWLPH ILUVW\HDU SRSXODWLRQ VFRUHG DW RU EHORZ) and the 75th percentile score (the
+score that 25 percent scored at or above).
+
+
+                                     25th Percentile           50th Percentile             75th Percentile
+             Assessment
+                                         Score                     Score                       Score
+        SAT Composite                      1140                      1240                       1330
+
+        SAT Evidence-Based                  570                       620                       670
+        Reading and Writing
+
+        SAT Math                            560                       620                       680
+
+        ACT Composite                       25                        28                         31
+
+        ACT Math                            24                        26                         30
+
+        ACT English                         24                        28                         32
+
+        ACT Writing                          7                         8                         8
+
+        ACT Science                         24                        26                         30
+
+        ACT Reading                         24                        30                         33
+                                                    Common Data Set 202-202
+
+
+
+Percent of first-time, first-year students with scores in each range:
+
+                         SAT Evidence-
+ Score Range           Based Reading and                 SAT Math
+                            Writing
+     700-800                  13.94                        21.35
+
+     600-699                  51.43                        41.56
+
+     500-599                  31.30                        33.66
+
+     400-499                     3.26                      3.26
+
+     300-399                     0.07                      0.17
+
+     200-299                     0.00                      0.00
+7RWDOVKRXOGEH
+
+
+
+
+      Score Range            SAT Composite
+        1400-1600                       13.85
+        1200-1399                       50.37
+        1000-1199                       33.82
+         800-999                         1.96
+         600-799                         0.00
+         400-599                         0.00
+   7RWDOVKRXOGEH                 100.00
+
+     Score               ACT
+                                            ACT English            ACT Math     ACT Reading   ACT Science
+     Range             Composite
+     30-36                37.36                  40.25               27.04         53.80         28.48
+
+     24-29                46.15                  37.74               52.20         27.85         48.10
+
+     18-23                15.93                  21.38               16.98         17.09         22.15
+
+     12-17                0.56                   0.63                3.78          1.26          1.27
+
+      6-11                0.00                   0.00                0.00          0.00          0.00
+
+    Below 6               0.00                   0.00                0.00          0.00          0.00
+
+                          100%                   100%               100%           100%          100%
+
+
+
+
+C10. Percent of all degree-seeking, first-time, first-year students who had high school class rank
+within each of the following ranges (report information for those students from whom you
+collected high school rank information)
+                                                  Common Data Set 202-202
+
+
+                                 Assessment                                 Percent
+
+      Percent in top tenth of high school graduating class                    23.98
+
+
+      Percent in top quarter of high school graduating class                  55.16
+
+
+      Percent in top half of high school graduating class                     88.97
+
+
+      Percent in bottom half of high school graduating class                  11.03      ` Top half + bottom half =
+                                                                                         100%.
+
+      Percent in bottom quarter of high school graduating class                1.70
+
+      Percent of total first-time, first-year students who submitted
+                                                                              33.31
+      high school class rank:
+
+
+    C11. Percentage of all enrolled, degree-seeking, first-time, first-year students who had high school
+               grade-point averages within each of the following ranges (using 4.0 scale).
+
+        9 Report information only for those students from whom you collected high school GPA.
+        9 ,I\RXDUHDEOHWRUHSRUW*3$UDQJHVVHSDUDWHO\IRUVWXGHQWVWKDWDOVRVXEPLWWHGDWOHDVWRQHWHVWVFRUH
+             YHUVXVWKRVHZKRGLGQRWVXEPLWDWHVWVFRUHSOHDVHGRVRLQWKHUHVSHFWLYHFROXPQV,I\RXDUHXQDEOH
+             WRUHSRUWWKHVHGDWDSOHDVHUHSRUWWKHUDQJHVIRUDOOVWXGHQWV
+
+
+                                                           3HUFHQW                 3HUFHQW                    3HUFHQW
+                 6FRUH5DQJH                            6WXGHQWVZKR          6WXGHQWVZKRGLG             $OOHQUROOHG
+                                                       VXEPLWWHGVFRUHV       QRWVXEPLW VFRUHV              VWXGHQWV
+3HUFHQWZKRKDG*3$RI                                     6.82                     3.23                     4.45
+3HUFHQWZKRKDG*3$EHWZHHQ DQG                      28.09                    21.24                   23.57
+3HUFHQWZKRKDG*3$EHWZHHQDQG                     24.62                    24.76                   24.71
+3HUFHQWZKRKDG*3$EHWZHHQDQG                     17.32                    23.00                   21.06
+3HUFHQWZKRKDG*3$EHWZHHQDQG                      12.59                    17.35                   15.73
+3HUFHQWZKRKDG*3$EHWZHHQDQG                     10.22                    10.17                   10.19
+3HUFHQWZKRKDG*3$EHWZHHQDQG                      0.34                     0.25                     0.29
+3HUFHQWZKRKDG*3$EHWZHHQDQG                      0.00                     0.00                     0.00
+3HUFHQWZKRKDG*3$EHORZ                                 0.00                     0.00                     0.00
+7RWDOVVKRXOG                                           100.00                    100.00                  100.00
+
+
+
+
+    C12. Average high school GPA of all degree-seeking, first-time, first-year students who
+       submitted GPA:
+
+
+                                       Average High School GPA                   3.55
+
+
+    Percent of total first-time, first-year students who submitted high school GPA:
+                                                                                  %
+                                       Percent Submitting GPA                   95.56
+                                             &RPPRQ'DWD6HW
+
+
+
+C13-C20: Admission Policies
+C13.Application fee
+
+    9    If your institution has waived its application fee for the Fall 202 admission cycle please select no.
+                                                   տ Yes տ No
+    Does your institution have an application fee? ✔
+
+    Amount of application fee: $60.00
+
+    Can it be waived for applicants with financial need? տ
+                                                         ✔ Yes տ No
+
+
+If you have an application fee and an on-line application option, please indicate policy for students who
+apply on-line:
+        տ
+        ✔ Same Fee
+        տ Free
+        տ Reduced
+
+Can on-line application fee be waived for applicants with financial need? տ
+                                                                          ✔ Yes տ No
+
+
+C14. Application closing date
+    Does your institution have an application closing date? տ
+                                                            ✔ Yes տ No
+
+
+                                                                              Month        Day
+                                  Application closing date (fall)        2             3
+
+                                  Priority Date                          11            1
+
+C15. Are first-time, first-year students accepted for terms other than the fall? տ
+                                                                                 ✔ Yes տ No
+
+
+C16.Notification to applicants of admission decision sent (fill in one only)
+                                                    Month       Day
+
+        տ
+        ✔ On a rolling basis beginning (date):
+        տ By (date):                              12        1
+        տ Other:
+
+C17. Reply policy for admitted applicants (fill in one only)
+                                                    Month       Day
+
+        տ Must reply by (date):
+        տ No set date
+        տ
+        ✔ Must reply by May 1st or within               weeks if notified thereafter
+        տ Other:
+                                                    Month       Day
+
+    Deadline for housing deposit:
+
+    Amount of housing deposit: $50.00
+
+   Refundable if student does not enroll?
+
+        տ Yes, in full
+        տ Yes, in part
+        տ
+        ✔ No
+                                               &RPPRQ'DWD6HW
+
+
+
+C18. Deferred admission: Does your institution allow students to postpone enrollment after admission?
+
+    տ Yes ✔
+          տ No
+
+    If yes, maximum period of postponement:
+
+C19. Early admission of high school students: Does your institution allow high school students to enroll as full-
+   time, first-time, first-year students one year or more before high school graduation?
+    տ Yes ✔
+          տ No
+
+C20. Common Application: Question removed from CDS. (Initiated during 2006-2007 cycle)
+
+C21-C22: Early Decision and Early Action Plans
+
+C21. Early decision: Does your institution offer an early decision plan (an admission plan that permits students to
+   apply and be notified of an admission decision well in advance of the regular notification date and that asks
+   students to commit to attending if accepted) for first-time, first-year applicants for fall enrollment?
+    տ Yes տ No
+    If “yes,” please complete the following:                     Month       Day
+         First or only early decision plan closing date:
+         First or only early decision plan notification date:
+         Other early decision plan closing date:
+         Other early decision plan notification date:
+
+    For the Fall 202 entering class:
+        Number of early decision applications received by your institution:
+        Number of applicants admitted under early decision plan:
+
+        Please provide significant details about your early decision plan:
+
+
+
+
+C22. Early action: Do you have a nonbinding early action plan whereby students are notified of an admission
+    decision well in advance of the regular notification date but do not have to commit to attending your college?
+     տ Yes տ1R
+     ✔
+
+
+    If “yes,” please complete the following:                     Month       Day
+
+         Early action closing date:                             11       1
+         Early action notification date:                        12       1
+
+
+
+Is your early action plan a “restrictive” plan under which you limit students from applying to other early plans?
+
+     տ Yes տ No
+                                             &RPPRQ'DWD6HW
+
+
+
+                                                H. FINANCIAL AID
+
+Please refer to the following financial aid definitions when completing Section H.
+
+Awarded aid: The dollar amounts offered to financial aid applicants.
+
+Financial aid applicant: Any applicant who submits any one of the institutionally required financial aid
+applications/forms, such as the FAFSA.
+
+Indebtedness: Aggregate dollar amount borrowed through any loan program (federal, state, subsidized,
+unsubsidized, private, etc.; excluding parent loans) while the student was enrolled at an institution. Student loans
+co-signed by a parent are assumed to be the responsibility of the student and should be included.
+
+Institutional scholarships and grants: Endowed scholarships, annual gifts and tuition funded grants for which the
+institution determines the recipient.
+
+Financial need: As determined by your institution using the federal methodology and/or your institution's own
+standards.
+
+Need-based aid: College-funded or college-administered award from institutional, state, federal, or other sources
+for which a student must have financial need to qualify. This includes both institutional and non-institutional student
+aid (grants, jobs, and loans).
+
+Need-based scholarship or grant aid: Scholarships and grants from institutional, state, federal, or other sources
+for which a student must have financial need to qualify.
+
+Need-based self-help aid: Loans and jobs from institutional, state, federal, or other sources for which a student
+must demonstrate financial need to qualify.
+
+Non-need-based scholarship or grant aid: Scholarships and grants, gifts, or merit-based aid from institutional,
+state, federal, or other sources (including unrestricted funds or gifts and endowment income) awarded solely on the
+basis of academic achievement, merit, or any other non-need-based reason. When reporting questions H1 and H2,
+non-need-based aid that is used to meet need should be counted as need-based aid.
+
+    Note: Suggested order of precedence for counting non-need money as need-based:
+              1.   Non-need institutional grants                              6.   Non-need outside grants
+              2.   Non-need tuition waivers                                   7.   Non-need student loans
+              3.   Non-need athletic awards                                   8.   Non-need parent loans
+              4.   Non-need federal grants                                    9.   Non-need work
+              5.   Non-need state grants
+
+Non-need-based self-help aid: Loans and jobs from institutional, state, or other sources for which a student need
+not demonstrate financial need to qualify.
+Private student loans: A nonfederal loan made by a lender such as a bank, credit union or private lender used to
+pay for up to the annual cost of education, less any financial aid received.
+
+External scholarships and grants: Scholarships and grants received from outside (private) sources that students
+bring with them (e.g., Kiwanis, National Merit scholarships). The institution may process paperwork to receive the
+dollars, but it has no role in determining the recipient or the dollar amount awarded.
+
+Work study and employment: Federal and state work study aid, and any employment packaged by your institution
+in financial aid awards.
+                                                &RPPRQ'DWD6HW
+
+
+
+Aid Awarded to Enrolled Undergraduates
+H1. Enter total dollar amounts awarded to enrolled full-time and less than full-time degree-seeking
+    undergraduates (using the same cohort reported in CDS Question B1, “total degree-seeking”
+    undergraduates) in the following categories.
+    9     If the data being reported are final figures for the 202-202 academic year (see the next item below),
+          use the 202-202 academic year's CDS Question B1 cohort.
+    9     Include aid awarded to international students (i.e., those not qualifying for federal aid).
+    9     Aid that is non-need-based but that was used to meet need should be reported in the need-based aid
+          column.
+    9     For a suggested order of precedence in assigning categories of aid to cover need, see the entry for “non-
+          need-based scholarship or grant aid” on the last page of the definitions section.
+
+
+Indicate the academic year for which data are reported for items H1, H2, H2A, and H6 below:
+
+   տ 202-202 Estimated or տ
+                            ✔
+                              202-202 Final
+
+Which needs-analysis methodology does your institution use in awarding institutional aid? (Formerly H3)
+
+  տ Federal methodology (FM)
+  ✔
+  տ Institutional methodology (IM)
+  տ Both FM and IM
+
+                                                                               Need-based               Non-need-based
+                                                                           (Include non-need-       (Exclude non-need-
+                                                                             based aid use to        based aid use to
+                                                                               meet need.)             meet need.)
+ Scholarships/Grants
+        Federal                                                               $62383688.00                   $0.00
+
+        State all states, not only the state in which your institution
+                                                                              $86344769.00                $420500.00
+        is located
+
+        Institutional: Endowed scholarships, annual gifts and
+        tuition funded grants, awarded by the college, excluding              $50853216.00                $2715405.00
+        athletic aid and tuition waivers (which are reported below).
+
+        Scholarships/grants from external sources (e.g.
+                                                                               $3801791.00                $639452.00
+        Kiwanis, National Merit) not awarded by the college
+ Total Scholarships/Grants                                                    $203383464.00              $3775357.00
+
+ Self-Help
+        Student loans from all sources (excluding parent loans)               $37999814.00                $7589083.00
+
+        Federal Work-Study                                                     $2233255.00               1RW$SSOLFDEOH
+
+        State and other (e.g., institutional) work-study/employment
+                                                                               $7652281.00                $5464470.00
+        (Note: Excludes Federal Work-Study captured above.)
+ Total Self-Help                                                              $47885350.00               $13053553.00
+
+ Parent Loans                                                                 $19052592.00                $3441667.00
+                                              &RPPRQ'DWD6HW
+
+
+
+                                                                            Need-based            Non-need-based
+                                                                         (Include non-need-      (Exclude non-need-
+                                                                           based aid use to       based aid use to
+                                                                             meet need.)            meet need.)
+ Tuition Waivers
+ Note: Reporting is optional. Report tuition waivers in this row if          $8417228.00               $8975250.00
+ you choose to report them. Do not report tuition waivers
+ elsewhere.
+ Athletic Awards                                                             $1809551.00               $3385307.00
+
+
+H2. Number of Enrolled Students Awarded Aid: List the number of degree-seeking full-time and less-than-full-
+    time undergraduates who applied for and were awarded financial aid from any source.
+     9   Aid that is non-need-based but that was used to meet need should be counted as need-based aid.
+     9   Numbers should reflect the cohort awarded the dollars reported in H1.
+     9   In the chart below, students may be counted in more than one row, and full-timeILUVWWLPHILUVW\HDU
+         VWXGHQWV should also be counted as full-time undergraduates.
+
+
+
+                                                                             FXOO-time       Full-time     Less Than
+            1XPEHURI(QUROOHG6WXGHQWV$ZDUGHG$LGV                         FLUVW-time    Undergrad        Full-time
+                                                                             FLUVW\HDU    (Incl. Fresh)   Undergrad
+     Number of degree-seeking undergraduate students (CDS
+ A                                                                              4542          19803           2042
+     Item B1 if reporting on Fall 202 cohort)
+     Number of students in line a who applied for need-based
+ B                                                                              4089          15844           1347
+     financial aid
+     Number of students in line b who were determined to have
+ C                                                                              3581          14350           1214
+     financial need
+ D   Number of students in line c who were awarded any financial aid            3372          13542           1038
+
+     Number of students in line d who were awarded any need-based
+ E                                                                              3129          12092            866
+     scholarship or grant aid
+     Number of students in line d who were awarded any need-based
+ F                                                                              2540          11034            704
+     self-help aid
+     Number of students in line d who were awarded any non-need-
+ G                                                                               203           494             11
+     based scholarship or grant aid
+     Number of students in line d whose need was fully met (exclude
+ H                                                                               267           926             38
+     PLUS loans, unsubsidized loans, and private alternative loans)
+     On average, the percentage of need that was met of students
+     who were awarded any need-based aid. Exclude any aid that
+ I   was awarded in excess of need as well as any resources that                57.00         56.00           42.00
+     were awarded to replace EFC (PLUS loans, unsubsidized loans,
+     and private alternative loans)
+     The average financial aid package of those in line d. Exclude
+ J   any resources that were awarded to replace EFC (PLUS loans,               $19971         $19694         $13525
+     unsubsidized loans, and private alternative loans)
+     Average need-based scholarship or grant award of those in line
+ K                                                                             $18401         $17478         $12426
+     e
+     Average ed
+             need-based elf
+                          self-help award (excluding PLUS loans,
+ L   unsubsidized loans, and private alternative loans) of those in line       $3880          $5053           $4582
+     f
+                                                  &RPPRQ'DWD6HW
+
+
+
+                                                                                 )XOOWLPH       Full-time     Less Than
+                                                                                 FLUVW-time    Undergrad        Full-time
+                                                                                 FLUVW\HDU    (Incl. Fresh)   Undergrad
+
+         Average need-based loan (excluding PLUS loans, unsubsidized
+ M       loans, and private alternative loans) of those in line f who were         $3398.0       $4456.0        $4126.0
+         awarded a need-based loan
+
+H2A. Number of Enrolled Students Awarded Non-need-based Scholarships and Grants: List the number of
+degree-seeking full-time and less-than-full-time undergraduates who had no financial need and who were
+awarded institutional non-need-based scholarship or grant aid.
+         9    Numbers should reflect the cohort awarded the dollars reported in H1.
+         9    In the chart below, students may be counted in more than one row, and full-timeILUVWWLPHILUVW\HDU
+              should also be counted as full-time undergraduates.
+
+
+                                                                                                  Full-time
+             1XPEHURI(QUROOHG6WXGHQWV$ZDUGHG1RQQHHGEDVHG                  FXOO-time                      Less Than
+                                                                                                 Undergrad
+             6FKRODUVKLSVDQG*UDQWV                                              FLUVW-time                      Full-time
+                                                                                                    (Incl.
+                                                                                  )LUVW\HDU                     Undergrad
+                                                                                                   Fresh)
+         Number of students in line a who had no financial need and who
+         were awarded institutional non-need-based scholarship or grant
+ N                                                                                    151             1006              24
+         aid (exclude those who were awarded athletic awards and tuition
+         benefits)
+         Average dollar amount of institutional non-need-based
+ O                                                                                   $5680            $6572        $4761
+         scholarship and grant aid awarded to students in line n
+
+         Number of students in line a who were awarded an institutional
+ P                                                                                     25              125              1
+         non-need-based athletic scholarship or grant
+         Average dollar amount of institutional non-need-based athletic
+ Q                                                                                  $20357            $27413       $11769
+         scholarships and grants awarded to students in line p
+
+Note: These are the graduates and loan types to include and exclude in order to fill out CDS H4 and H5.
+Include:
+     x       202 undergraduate class: all students who started at your institution as first-time students and received
+             a bachelor's degree between July 1, 202 and June 30, 202.
+     x       Only loans made to students who borrowed while enrolled at your institution.
+     x       Co-signed loans.
+
+ Exclude:
+     x       Students who transferred in.
+     x       Money borrowed at other institutions.
+     x       Parent loans
+     x       Students who did not graduate or who graduated with another degree or certificate (but no bachelor’s
+             degree).
+
+
+H4. Provide the number of students in the 202
+undergraduate class who started at your institution as first-                                  2535
+time students and received a bachelor's degree between July 1,
+202 and June 30, 202. Exclude students who transferred into
+your institution.
+                                                 &RPPRQ'DWD6HW
+
+
+
+
+H5. Number and percent of students in class (defined in H4 above) borrowing from federal, non-federal,
+and any loan sources, and the average (or mean) amount borrowed.
+     x     The “Average per-undergraduate-borrower cumulative principal borrowed,” is designed to provide better
+           information about student borrowing from federal and nonfederal (institutional, state, commercial) sources.
+     x     The numbers, percentages, and averages for each row should be based only on the loan source specified
+           for the particular row. For example, the federal loans average (row b) should only be the cumulative average
+           of federal loans and the private loans average (row e) should only be the cumulative average of private
+           loans.
+
+                                                                                                     Average per-
+                                                                              Percent of the
+                                                          Number in the                            undergraduate-
+                                                                              class (defined
+                                                         class (defined in                             borrower
+                                                                                above) who
+                                                          H4 above) who                               cumulative
+                                                                             borrowed from
+                                                          borrowed from                                principal
+                   Source/Type of Loan                                         the types of
+                                                           the types of                           borrowed from the
+                                                                             loans specified
+                                                         loans specified                            types of loans
+                                                                                 in the first
+                                                            in the first                           specified in the
+                                                                                   column
+                                                              column                                      first
+                                                                               (nearest 1%)
+                                                                                                   column (nearest
+         Any loan program: Federal Perkins,
+         Federal Stafford Subsidized and
+         Unsubsidized, institutional, state, private
+ A                                                             976                43.00                $20772
+         loans that your institution is aware of, etc.
+         Include both Federal Direct Student Loans
+         and Federal Family Education Loans
+         Federal loan programs: Federal Perkins,
+         Federal Stafford Subsidized and
+ B       Unsubsidized. Include both Federal Direct             925                36.00                $16266
+         Student Loans and Federal Family
+         Education Loans
+ C       Institutional loan programs                            5                  0.00                 $2200
+
+ D       State loan programs                                    0                  0.00                   $0
+         Private student loans made by a bank or
+ E                                                             159                 6.00                $37402
+         lender
+
+++Aid to Undergraduate Degree-seeking NonresidentV
+     x     Report numbers and dollar amounts for the same academic year checked in item H1
+H6. Indicate your institution’s policy regarding institutional scholarship and grant aid for undergraduate degree-
+    seeking nonresidentV:
+ տ Institutional need-based scholarship or grant aid is available
+ տ Institutional non-need-based scholarship or grant aid is available
+ ✔
+
+ տ Institutional scholarship and grant aid is not available
+
+     If institutional financial aid is available for undergraduate
+     degree-seeking nonresidentV, provide the number of                                    209
+     undergraduate degree-seeking nonresidentV who were
+     awarded need-based or non-need-based aid:
+
+
+     Average dollar amount of institutional financial aid awarded to                      $4404
+     undergraduate degree-seeking nonresidentV:
+                                                  &RPPRQ'DWD6HW
+
+
+
+    Total dollar amount of institutional financial aid awarded                            $920465
+    to undergraduate degree-seeking nonresidentV:
+
+H7. Check off all financial aid forms nonresident first-year financial aid applicants must submit:
+
+ տ Institution’s own financial aid form
+ տ CSS3URILOH
+ տ Other (specify):
+
+
+
+
+Process for First-Year Students
+H8. Check off all financial aid forms domestic first-year financial aid applicants must submit:
+
+ տ FAFSA
+ ✔
+
+ տ Institution’s own financial aid form
+ տ CSS3URILOH
+ տ State aid form
+ տ 1RQFXVWRGLDO3URILOH
+ տ
+    Business/Farm Supplement
+ տ Other:
+
+H9. Indicate filing dates for first-year students:
+                                                              Month         Day
+
+         Priority date for filing required                    2         15
+         financial aid forms
+
+         Deadline for filing required financial
+         aid forms
+     ✔   No deadline for filing required forms (applications processed on a rolling basis)
+
+H10. Indicate notification dates for first-year students (answer a or b):
+                                                              Month         Day
+
+         Students notified on or about (date)
+         Students notified on a rolling basis                 3         15
+         If yes, starting date
+
+H11. Indicate reply dates:
+                                                              Month         Day
+
+         Students must reply by (date)                        5         1
+
+         or within                   weeks of notification.
+                                              &RPPRQ'DWD6HW
+
+
+
+Types of Aid Available
+Please check off all types of aid available to undergraduates at your institution:
+
+H12. Loans                                                H13. Need Based Scholarships and Grants
+
+✔   )HGHUDO'LUHFW6XEVLGL]HG/RDQV                       տ Federal Pell
+                                                          ✔
+
+✔   )HGHUDO'LUHFW8QVXEVLGL]HG/RDQV                     տ
+                                                          ✔ )HGHUDOSEOG
+
+✔   )HGHUDO'LUHFW3/86/RDQV                             տ
+                                                          ✔ State scholarships/grants
+
+✔   )HGHUDO1XUVLQJ/RDQV                                 տ Private Scholarships
+                                                          ✔
+
+    6WDWH/RDQV                                           տ College/university scholarship or grant aid from
+                                                          ✔
+
+    &ROOHJH8QLYHUVLW\ORDQVIURPLQVWLWXWLRQDOIXQG         institutional funds
+
+տ Other (specify):                                        տ United Negro College Fund
+                                                          ✔
+
+                                                          տ Federal Nursing Scholarship
+                                                          տ Other (specify):
+
+
+H14. Check off criteria used in awarding institutional aid. Check all that apply.
+
+                                 Non-Need Based        Need-Based
+    Academics                             ‫܆‬
+                                          ✔                  ‫܆‬
+    Alumni affiliation                    ‫܆‬                  ‫܆‬
+    Art                                   ‫܆‬
+                                          ✔                  ‫܆‬
+    Athletics                             ‫܆‬
+                                          ✔                  ‫܆‬
+    Job skills                            ‫܆‬                  ‫܆‬
+    ROTC                                  ‫܆‬
+                                          ✔             1RW$SSOLFDEOH
+
+    Leadership                            ‫܆‬                  ‫܆‬
+    Music/drama                           ‫܆‬
+                                          ✔                  ‫܆‬
+    Religious affiliation                 ‫܆‬                  ‫܆‬
+    State/district residency              ‫܆‬                  ‫܆‬
+
+
+
+
+H15. If your institution has recently implemented any major financial aid policy, program, or initiative to make your
+institution more affordable to incoming students such as replacing loans with grants, or waiving costs for families
+below a certain income level please provide details below:
+                  https://free.uic.edu/
+

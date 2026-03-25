@@ -1,0 +1,3 @@
+Tuition,10000
+Enrollment,2500
+City:Chicago

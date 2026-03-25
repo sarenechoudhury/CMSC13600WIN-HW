@@ -21,7 +21,6 @@ class UserProfile(models.Model):
         return f"{self.user.username} ({role})"
 
 
-
 class Institution(models.Model):
     """
     A school/institution we store facts for.
@@ -44,18 +43,20 @@ class ReportingYear(models.Model):
 
 class Upload(models.Model):
     """
-    An uploaded CSV file from a harvester, tied to one institution and one reporting year.
+    An uploaded file from a harvester, tied to one institution and one reporting year.
+    HW7 requires the upload identifier to be the sha256 hash of the file contents.
     """
     uploader = models.ForeignKey(User, on_delete=models.PROTECT, related_name="uploads")
     institution = models.ForeignKey(Institution, on_delete=models.PROTECT, related_name="uploads")
     reporting_year = models.ForeignKey(ReportingYear, on_delete=models.PROTECT, related_name="uploads")
 
+    sha256 = models.CharField(max_length=64, unique=True)
     url = models.URLField(blank=True, null=True)
     uploaded_file = models.FileField(upload_to="uploads/")
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __str__(self) -> str:
-        return f"Upload {self.id} ({self.institution} / {self.reporting_year})"
+        return f"Upload {self.sha256} ({self.institution} / {self.reporting_year})"
 
 
 class FieldKey(models.Model):
@@ -71,7 +72,7 @@ class FieldKey(models.Model):
 class Fact(models.Model):
     """
     The current value for a (Institution, ReportingYear, FieldKey).
-    We keep "current_value" here for fast reads, and store full history in FactRevision.
+    We keep current_value here for fast reads, and store full history in FactRevision.
     """
     institution = models.ForeignKey(Institution, on_delete=models.PROTECT, related_name="facts")
     reporting_year = models.ForeignKey(ReportingYear, on_delete=models.PROTECT, related_name="facts")
@@ -79,7 +80,6 @@ class Fact(models.Model):
 
     current_value = models.TextField(blank=True, null=True)
 
-    # audit of the *current* value
     updated_at = models.DateTimeField(auto_now=True)
     updated_by = models.ForeignKey(
         User,
@@ -104,7 +104,6 @@ class FactRevision(models.Model):
 
     value = models.TextField()
 
-    # auditing / provenance
     source_upload = models.ForeignKey(
         Upload,
         on_delete=models.PROTECT,

@@ -1,57 +1,58 @@
 import hashlib
-import string
+import time
 
-with open("PUZZLE", "r") as f:
-    TARGETS = [line.strip() for line in f if line.strip()]
+start_time = time.time()
 
-def h(key_num: int, word: str) -> str:
-    key = f"{key_num:09d}"
-    return hashlib.sha256(key.encode("utf-8") + word.encode("utf-8")).hexdigest()
+# Load puzzle hashes
+puzzle_hashes = {line.strip() for line in open("PUZZLE") if line.strip()}
+print(f"Loaded {len(puzzle_hashes)} unique hashes.")
 
-def check_quote(key_num: int, words: list[str], allow_one_mismatch: bool = True):
-    if len(words) != len(TARGETS):
-        return None
+# Use the fast common wordlist first (highly recommended)
+with open("google-10000-english.txt", encoding="utf-8", errors="ignore") as f:
+    wordlist = [w.strip() for w in f if 2 <= len(w.strip()) <= 20]
 
-    bad = []
-    for i, (w, target) in enumerate(zip(words, TARGETS)):
-        if h(key_num, w) != target:
-            bad.append((i, w))
-            if not allow_one_mismatch or len(bad) > 1:
-                return None
-    return bad
+print(f"Loaded {len(wordlist):,} common words. Starting brute-force search...\n")
 
-alphabet = string.ascii_letters
+found_key = None
+decoded_message = []
+keys_tested = 0
 
-def edits1(word: str):
-    splits = [(word[:i], word[i:]) for i in range(len(word) + 1)]
-    deletes = [L + R[1:] for L, R in splits if R]
-    transposes = [L + R[1] + R[0] + R[2:] for L, R in splits if len(R) > 1]
-    replaces = [L + c + R[1:] for L, R in splits if R for c in alphabet]
-    inserts = [L + c + R for L, R in splits for c in alphabet]
-    return set(deletes + transposes + replaces + inserts)
+for n in range(1_000_000_000):
+    key = f"{n:09d}"
+    keys_tested += 1
 
-def find_misspelling(key_num: int, correct_word: str, target_hash: str):
-    for cand in edits1(correct_word):
-        if h(key_num, cand) == target_hash:
-            return cand
-    return None
+    # Progress update every 5000 keys (easy to read)
+    if n % 5000 == 0 and n > 0:
+        elapsed = time.time() - start_time
+        speed = keys_tested / elapsed if elapsed > 0 else 0
+        print(f"Tested {n:,} keys | Speed: {speed:,.0f} keys/sec | "
+              f"Elapsed: {elapsed:.1f}s | Found words: {len(decoded_message)}")
 
-candidate_text = """
-that a good Christian can sometimes learn also from the infidels, and when I asked him to let me taste it, he replied that herbs that are good for an old Franciscan are not good for a young Benedictine. During our time together we did not have occasion to lead a very regular life: even at the abbey we remained up at night and collapsed wearily
-""".strip()
+    for word in wordlist:
+        candidate = key + word                    # NO space between key and word
+        h = hashlib.sha256(candidate.encode("utf-8")).hexdigest()
 
-candidate_words = candidate_text.split()
-print("candidate word count:", len(candidate_words))
+        if h in puzzle_hashes:
+            if found_key is None:
+                found_key = key
+                print("\n" + "="*60)
+                print(f"*** KEY FOUND: {key} ***")
+                print(f"Example word : {word}")
+                print(f"Time so far  : {time.time() - start_time:.1f} seconds")
+                print("="*60 + "\n")
 
-for key_num in range(0, 1_000_000_000):
-    bad = check_quote(key_num, candidate_words, allow_one_mismatch=True)
-    if bad is not None:
-        print("candidate key:", key_num)
-        print("bad positions:", bad)
-        if len(bad) == 1:
-            idx = bad[0][0]
-            correct_word = candidate_words[idx]
-            typo = find_misspelling(key_num, correct_word, TARGETS[idx])
-            print("correct word:", correct_word)
-            print("misspelled word:", typo)
-        break
+            decoded_message.append(word)
+            puzzle_hashes.discard(h)
+
+            # Stop once we have almost the full message
+            if len(decoded_message) >= 45:
+                print("\n" + "★" * 20)
+                print("FULL MESSAGE DECODED SUCCESSFULLY!")
+                print(" ".join(decoded_message))
+                print("\n" + "★" * 20)
+                print(f"\nTotal time     : {time.time() - start_time:.1f} seconds")
+                print(f"Your puzzle_key = {found_key}")
+                print(f"Number of words decoded: {len(decoded_message)}")
+                exit(0)   # cleanly stop the program
+
+print("Search completed without finding the key.")

@@ -20,17 +20,30 @@
         table {
             margin: 0 auto;
             border-collapse: collapse;
-            width: 80%;
+            width: 90%;
         }
 
         th, td {
             border: 1px solid #cccccc;
             padding: 8px;
+            vertical-align: top;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .top-links {
+            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
     <h1>Uploads</h1>
+
+    <div class="top-links">
+        <a href="/app/api/dump-uploads/">View upload JSON</a>
+    </div>
 
     <div class="form-box">
         <form action="/app/api/upload/" method="post" enctype="multipart/form-data">
@@ -62,19 +75,47 @@
             <th>Year</th>
             <th>URL</th>
             <th>File</th>
+            <th>Download</th>
+            <th>Process</th>
         </tr>
         {% for upload in uploads %}
         <tr>
-            <td>{{ upload.id }}</td>
+            <td>
+                {% if upload.sha256 %}
+                    {{ upload.sha256 }}
+                {% else %}
+                    {{ upload.id }}
+                {% endif %}
+            </td>
             <td>{{ upload.uploader.username }}</td>
             <td>{{ upload.institution.name }}</td>
             <td>{{ upload.reporting_year.label }}</td>
-            <td>{{ upload.url }}</td>
+            <td>
+                {% if upload.url %}
+                    <a href="{{ upload.url }}">{{ upload.url }}</a>
+                {% else %}
+                    &mdash;
+                {% endif %}
+            </td>
             <td>{{ upload.uploaded_file.name }}</td>
+            <td>
+                {% if upload.sha256 %}
+                    <a href="/app/api/download/{{ upload.sha256 }}/">Download</a>
+                {% else %}
+                    &mdash;
+                {% endif %}
+            </td>
+            <td>
+                {% if upload.sha256 %}
+                    <a href="/app/api/process/{{ upload.sha256 }}/">Process</a>
+                {% else %}
+                    &mdash;
+                {% endif %}
+            </td>
         </tr>
         {% empty %}
         <tr>
-            <td colspan="6">No uploads yet.</td>
+            <td colspan="8">No uploads yet.</td>
         </tr>
         {% endfor %}
     </table>

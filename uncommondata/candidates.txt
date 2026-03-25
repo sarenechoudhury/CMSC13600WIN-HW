@@ -1,0 +1,800 @@
+#1
+score   : 10
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 63874
+text    : its being a degradation, of the family obstacles which judgment had always opposed to inclination, were dwelt on with a warmth which seemed due to the consequence he was wounding, but was very unlikely to recommend his suit. In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her the
+--------------------------------------------------------------------------------
+#2
+score   : 10
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 63875
+text    : being a degradation, of the family obstacles which judgment had always opposed to inclination, were dwelt on with a warmth which seemed due to the consequence he was wounding, but was very unlikely to recommend his suit. In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her the strength
+--------------------------------------------------------------------------------
+#3
+score   : 14
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 63879
+text    : the family obstacles which judgment had always opposed to inclination, were dwelt on with a warmth which seemed due to the consequence he was wounding, but was very unlikely to recommend his suit. In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her the strength of that attachment which
+--------------------------------------------------------------------------------
+#4
+score   : 16
+distinct: 85
+profile : [9, 5, 5, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/768/768-0.txt
+start   : 72524
+text    : though he’s rough—they’re sure to part, one swearing and the other crying. I believe the master would relish Earnshaw’s thrashing him to a mummy, if he were not his son; and I’m certain he would be fit to turn him out of doors, if he knew half the nursing he gives hisseln. But then he won’t go into danger of temptation: he never enters the parlour, and should Linton show those ways in the house where he is, he sends him upstairs directly.” I divined, from this account, that utter lack of sympathy had rendered young Heathcliff selfish and disagreeable, if he were not so originally; and my interest in him, consequently, decayed: though still I
+--------------------------------------------------------------------------------
+#5
+score   : 16
+distinct: 85
+profile : [9, 5, 5, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/768/768-0.txt
+start   : 72528
+text    : to part, one swearing and the other crying. I believe the master would relish Earnshaw’s thrashing him to a mummy, if he were not his son; and I’m certain he would be fit to turn him out of doors, if he knew half the nursing he gives hisseln. But then he won’t go into danger of temptation: he never enters the parlour, and should Linton show those ways in the house where he is, he sends him upstairs directly.” I divined, from this account, that utter lack of sympathy had rendered young Heathcliff selfish and disagreeable, if he were not so originally; and my interest in him, consequently, decayed: though still I was moved with a
+--------------------------------------------------------------------------------
+#6
+score   : 16
+distinct: 87
+profile : [9, 5, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 11030
+text    : straight, narrow, sable-clad shape standing erect on the rug: the grim face at the top was like a carved mask, placed above the shaft by way of capital. Mrs. Reed occupied her usual seat by the fireside; she made a signal to me to approach; I did so, and she introduced me to the stony stranger with the words: “This is the little girl respecting whom I applied to you.” _He_, for it was a man, turned his head slowly towards where I stood, and having examined me with the two inquisitive-looking grey eyes which twinkled under a pair of bushy brows, said solemnly, and in a bass voice, “Her size is small: what is her
+--------------------------------------------------------------------------------
+#7
+score   : 17
+distinct: 86
+profile : [9, 4, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/84/84-0.txt
+start   : 13981
+text    : unhallowed damps of the grave or tortured the living animal to animate the lifeless clay? My limbs now tremble, and my eyes swim with the remembrance; but then a resistless and almost frantic impulse urged me forward; I seemed to have lost all soul or sensation but for this one pursuit. It was indeed but a passing trance, that only made me feel with renewed acuteness so soon as, the unnatural stimulus ceasing to operate, I had returned to my old habits. I collected bones from charnel-houses and disturbed, with profane fingers, the tremendous secrets of the human frame. In a solitary chamber, or rather cell, at the top of the house, and separated from all
+--------------------------------------------------------------------------------
+#8
+score   : 18
+distinct: 84
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 63876
+text    : a degradation, of the family obstacles which judgment had always opposed to inclination, were dwelt on with a warmth which seemed due to the consequence he was wounding, but was very unlikely to recommend his suit. In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her the strength of
+--------------------------------------------------------------------------------
+#9
+score   : 18
+distinct: 86
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 6524
+text    : feeling of awe, and left nothing but tender affection. Their increasing attachment was not to be satisfied with half a dozen turns in the pump-room, but required, when they all quitted it together, that Miss Thorpe should accompany Miss Morland to the very door of Mr. Allen’s house; and that they should there part with a most affectionate and lengthened shake of hands, after learning, to their mutual relief, that they should see each other across the theatre at night, and say their prayers in the same chapel the next morning. Catherine then ran directly upstairs, and watched Miss Thorpe’s progress down the street from the drawing-room window; admired the graceful spirit of her walk, the
+--------------------------------------------------------------------------------
+#10
+score   : 18
+distinct: 86
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 6525
+text    : of awe, and left nothing but tender affection. Their increasing attachment was not to be satisfied with half a dozen turns in the pump-room, but required, when they all quitted it together, that Miss Thorpe should accompany Miss Morland to the very door of Mr. Allen’s house; and that they should there part with a most affectionate and lengthened shake of hands, after learning, to their mutual relief, that they should see each other across the theatre at night, and say their prayers in the same chapel the next morning. Catherine then ran directly upstairs, and watched Miss Thorpe’s progress down the street from the drawing-room window; admired the graceful spirit of her walk, the fashionable
+--------------------------------------------------------------------------------
+#11
+score   : 18
+distinct: 85
+profile : [9, 5, 5, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/768/768-0.txt
+start   : 72522
+text    : not bad-natured, though he’s rough—they’re sure to part, one swearing and the other crying. I believe the master would relish Earnshaw’s thrashing him to a mummy, if he were not his son; and I’m certain he would be fit to turn him out of doors, if he knew half the nursing he gives hisseln. But then he won’t go into danger of temptation: he never enters the parlour, and should Linton show those ways in the house where he is, he sends him upstairs directly.” I divined, from this account, that utter lack of sympathy had rendered young Heathcliff selfish and disagreeable, if he were not so originally; and my interest in him, consequently, decayed: though
+--------------------------------------------------------------------------------
+#12
+score   : 18
+distinct: 87
+profile : [9, 5, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 22594
+text    : had been observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country. That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr. Attorney-General) was prepared to hear some disparagement
+--------------------------------------------------------------------------------
+#13
+score   : 18
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1400/1400-0.txt
+start   : 162180
+text    : no man can’t find a rag of his dear relation’s clothes, nor yet a bone of his body. There’s them that can’t and that won’t have Magwitch,—yes, _I_ know the name!—alive in the same land with them, and that’s had such sure information of him when he was alive in another land, as that he couldn’t and shouldn’t leave it unbeknown and put them in danger. P’raps it’s them that writes fifty hands, and that’s not like sneaking you as writes but one. ’Ware Compeyson, Magwitch, and the gallows!” He flared the candle at me again, smoking my face and hair, and for an instant blinding me, and turned his powerful back as he replaced the
+--------------------------------------------------------------------------------
+#14
+score   : 18
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1400/1400-0.txt
+start   : 162181
+text    : man can’t find a rag of his dear relation’s clothes, nor yet a bone of his body. There’s them that can’t and that won’t have Magwitch,—yes, _I_ know the name!—alive in the same land with them, and that’s had such sure information of him when he was alive in another land, as that he couldn’t and shouldn’t leave it unbeknown and put them in danger. P’raps it’s them that writes fifty hands, and that’s not like sneaking you as writes but one. ’Ware Compeyson, Magwitch, and the gallows!” He flared the candle at me again, smoking my face and hair, and for an instant blinding me, and turned his powerful back as he replaced the light
+--------------------------------------------------------------------------------
+#15
+score   : 18
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1400/1400-0.txt
+start   : 162182
+text    : can’t find a rag of his dear relation’s clothes, nor yet a bone of his body. There’s them that can’t and that won’t have Magwitch,—yes, _I_ know the name!—alive in the same land with them, and that’s had such sure information of him when he was alive in another land, as that he couldn’t and shouldn’t leave it unbeknown and put them in danger. P’raps it’s them that writes fifty hands, and that’s not like sneaking you as writes but one. ’Ware Compeyson, Magwitch, and the gallows!” He flared the candle at me again, smoking my face and hair, and for an instant blinding me, and turned his powerful back as he replaced the light on
+--------------------------------------------------------------------------------
+#16
+score   : 19
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 77549
+text    : this Ahab that had gone to his hammock, was not the agent that so caused him to burst from it in horror again. The latter was the eternal, living principle or soul in him; and in sleep, being for the time dissociated from the characterizing mind, which at other times employed it for its outer vehicle or agent, it spontaneously sought escape from the scorching contiguity of the frantic thing, of which, for the time, it was no longer an integral. But as the mind does not exist unless leagued with the soul, therefore it must have been that, in Ahab’s case, yielding up all his thoughts and fancies to his one supreme purpose; that purpose,
+--------------------------------------------------------------------------------
+#17
+score   : 19
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 77550
+text    : Ahab that had gone to his hammock, was not the agent that so caused him to burst from it in horror again. The latter was the eternal, living principle or soul in him; and in sleep, being for the time dissociated from the characterizing mind, which at other times employed it for its outer vehicle or agent, it spontaneously sought escape from the scorching contiguity of the frantic thing, of which, for the time, it was no longer an integral. But as the mind does not exist unless leagued with the soul, therefore it must have been that, in Ahab’s case, yielding up all his thoughts and fancies to his one supreme purpose; that purpose, by
+--------------------------------------------------------------------------------
+#18
+score   : 20
+distinct: 85
+profile : [9, 4, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 63873
+text    : of its being a degradation, of the family obstacles which judgment had always opposed to inclination, were dwelt on with a warmth which seemed due to the consequence he was wounding, but was very unlikely to recommend his suit. In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her
+--------------------------------------------------------------------------------
+#19
+score   : 20
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 63877
+text    : degradation, of the family obstacles which judgment had always opposed to inclination, were dwelt on with a warmth which seemed due to the consequence he was wounding, but was very unlikely to recommend his suit. In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her the strength of that
+--------------------------------------------------------------------------------
+#20
+score   : 20
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1400/1400-0.txt
+start   : 164818
+text    : the steam-traffic on the Thames was far below its present extent, and watermen’s boats were far more numerous. Of barges, sailing colliers, and coasting-traders, there were perhaps, as many as now; but of steam-ships, great and small, not a tithe or a twentieth part so many. Early as it was, there were plenty of scullers going here and there that morning, and plenty of barges dropping down with the tide; the navigation of the river between bridges, in an open boat, was a much easier and commoner matter in those days than it is in these; and we went ahead among many skiffs and wherries briskly. Old London Bridge was soon passed, and old Billingsgate Market
+--------------------------------------------------------------------------------
+#21
+score   : 20
+distinct: 86
+profile : [9, 5, 4, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 152824
+text    : time the faint air had become a complete calm; so that whether or no, the Pequod was now fairly entrapped in the smell, with no hope of escaping except by its breezing up again. Issuing from the cabin, Stubb now called his boat’s crew, and pulled off for the stranger. Drawing across her bow, he perceived that in accordance with the fanciful French taste, the upper part of her stem-piece was carved in the likeness of a huge drooping stalk, was painted green, and for thorns had copper spikes projecting from it here and there; the whole terminating in a symmetrical folded bulb of a bright red colour. Upon her head boards, in large gilt letters,
+--------------------------------------------------------------------------------
+#22
+score   : 21
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 77548
+text    : whale; this Ahab that had gone to his hammock, was not the agent that so caused him to burst from it in horror again. The latter was the eternal, living principle or soul in him; and in sleep, being for the time dissociated from the characterizing mind, which at other times employed it for its outer vehicle or agent, it spontaneously sought escape from the scorching contiguity of the frantic thing, of which, for the time, it was no longer an integral. But as the mind does not exist unless leagued with the soul, therefore it must have been that, in Ahab’s case, yielding up all his thoughts and fancies to his one supreme purpose; that
+--------------------------------------------------------------------------------
+#23
+score   : 22
+distinct: 86
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 6527
+text    : and left nothing but tender affection. Their increasing attachment was not to be satisfied with half a dozen turns in the pump-room, but required, when they all quitted it together, that Miss Thorpe should accompany Miss Morland to the very door of Mr. Allen’s house; and that they should there part with a most affectionate and lengthened shake of hands, after learning, to their mutual relief, that they should see each other across the theatre at night, and say their prayers in the same chapel the next morning. Catherine then ran directly upstairs, and watched Miss Thorpe’s progress down the street from the drawing-room window; admired the graceful spirit of her walk, the fashionable air of
+--------------------------------------------------------------------------------
+#24
+score   : 22
+distinct: 83
+profile : [9, 6, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 15385
+text    : first resolution, to seek her for that purpose, in the pump-room at noon. In the pump-room, one so newly arrived in Bath must be met with, and that building she had already found so favourable for the discovery of female excellence, and the completion of female intimacy, so admirably adapted for secret discourses and unlimited confidence, that she was most reasonably encouraged to expect another friend from within its walls. Her plan for the morning thus settled, she sat quietly down to her book after breakfast, resolving to remain in the same place and the same employment till the clock struck one; and from habitude very little incommoded by the remarks and ejaculations of Mrs. Allen,
+--------------------------------------------------------------------------------
+#25
+score   : 22
+distinct: 83
+profile : [9, 6, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 15386
+text    : resolution, to seek her for that purpose, in the pump-room at noon. In the pump-room, one so newly arrived in Bath must be met with, and that building she had already found so favourable for the discovery of female excellence, and the completion of female intimacy, so admirably adapted for secret discourses and unlimited confidence, that she was most reasonably encouraged to expect another friend from within its walls. Her plan for the morning thus settled, she sat quietly down to her book after breakfast, resolving to remain in the same place and the same employment till the clock struck one; and from habitude very little incommoded by the remarks and ejaculations of Mrs. Allen, whose
+--------------------------------------------------------------------------------
+#26
+score   : 22
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1400/1400-0.txt
+start   : 164817
+text    : time, the steam-traffic on the Thames was far below its present extent, and watermen’s boats were far more numerous. Of barges, sailing colliers, and coasting-traders, there were perhaps, as many as now; but of steam-ships, great and small, not a tithe or a twentieth part so many. Early as it was, there were plenty of scullers going here and there that morning, and plenty of barges dropping down with the tide; the navigation of the river between bridges, in an open boat, was a much easier and commoner matter in those days than it is in these; and we went ahead among many skiffs and wherries briskly. Old London Bridge was soon passed, and old Billingsgate
+--------------------------------------------------------------------------------
+#27
+score   : 22
+distinct: 83
+profile : [9, 5, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1400/1400-0.txt
+start   : 177441
+text    : and in the old unassertive protecting way, so that I would half believe that all my life since the days of the old kitchen was one of the mental troubles of the fever that was gone. He did everything for me except the household work, for which he had engaged a very decent woman, after paying off the laundress on his first arrival. “Which I do assure you, Pip,” he would often say, in explanation of that liberty; “I found her a tapping the spare bed, like a cask of beer, and drawing off the feathers in a bucket, for sale. Which she would have tapped yourn next, and draw’d it off with you a laying
+--------------------------------------------------------------------------------
+#28
+score   : 22
+distinct: 83
+profile : [9, 6, 5, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1400/1400-0.txt
+start   : 177450
+text    : I would half believe that all my life since the days of the old kitchen was one of the mental troubles of the fever that was gone. He did everything for me except the household work, for which he had engaged a very decent woman, after paying off the laundress on his first arrival. “Which I do assure you, Pip,” he would often say, in explanation of that liberty; “I found her a tapping the spare bed, like a cask of beer, and drawing off the feathers in a bucket, for sale. Which she would have tapped yourn next, and draw’d it off with you a laying on it, and was then a carrying away the
+--------------------------------------------------------------------------------
+#29
+score   : 23
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 3797
+text    : and manner give one or two of her early speeches a slight pertness, but that is nothing, and when she comes to serious business, as in the great proposal scene with Darcy (which is, as it should be, the climax of the interest of the book), and in the final ladies’ battle with Lady Catherine, she is unexceptionable. Then too she is a perfectly natural girl. She does not disguise from herself or anybody that she resents Darcy’s first ill-mannered personality with as personal a feeling. (By the way, the reproach that the ill-manners of this speech are overdone is certainly unjust; for things of the same kind, expressed no doubt less stiltedly but more coarsely,
+--------------------------------------------------------------------------------
+#30
+score   : 23
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 3803
+text    : of her early speeches a slight pertness, but that is nothing, and when she comes to serious business, as in the great proposal scene with Darcy (which is, as it should be, the climax of the interest of the book), and in the final ladies’ battle with Lady Catherine, she is unexceptionable. Then too she is a perfectly natural girl. She does not disguise from herself or anybody that she resents Darcy’s first ill-mannered personality with as personal a feeling. (By the way, the reproach that the ill-manners of this speech are overdone is certainly unjust; for things of the same kind, expressed no doubt less stiltedly but more coarsely, might have been heard in more
+--------------------------------------------------------------------------------
+#31
+score   : 23
+distinct: 87
+profile : [9, 5, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 11031
+text    : narrow, sable-clad shape standing erect on the rug: the grim face at the top was like a carved mask, placed above the shaft by way of capital. Mrs. Reed occupied her usual seat by the fireside; she made a signal to me to approach; I did so, and she introduced me to the stony stranger with the words: “This is the little girl respecting whom I applied to you.” _He_, for it was a man, turned his head slowly towards where I stood, and having examined me with the two inquisitive-looking grey eyes which twinkled under a pair of bushy brows, said solemnly, and in a bass voice, “Her size is small: what is her age?”
+--------------------------------------------------------------------------------
+#32
+score   : 23
+distinct: 86
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 152274
+text    : there in the distance lay a ship, whose furled sails betokened that some sort of whale must be alongside. As we glided nearer, the stranger showed French colours from his peak; and by the eddying cloud of vulture sea-fowl that circled, and hovered, and swooped around him, it was plain that the whale alongside must be what the fishermen call a blasted whale, that is, a whale that has died unmolested on the sea, and so floated an unappropriated corpse. It may well be conceived, what an unsavory odor such a mass must exhale; worse than an Assyrian city in the plague, when the living are incompetent to bury the departed. So intolerable indeed is it
+--------------------------------------------------------------------------------
+#33
+score   : 23
+distinct: 86
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 152275
+text    : in the distance lay a ship, whose furled sails betokened that some sort of whale must be alongside. As we glided nearer, the stranger showed French colours from his peak; and by the eddying cloud of vulture sea-fowl that circled, and hovered, and swooped around him, it was plain that the whale alongside must be what the fishermen call a blasted whale, that is, a whale that has died unmolested on the sea, and so floated an unappropriated corpse. It may well be conceived, what an unsavory odor such a mass must exhale; worse than an Assyrian city in the plague, when the living are incompetent to bury the departed. So intolerable indeed is it regarded
+--------------------------------------------------------------------------------
+#34
+score   : 23
+distinct: 86
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 152276
+text    : the distance lay a ship, whose furled sails betokened that some sort of whale must be alongside. As we glided nearer, the stranger showed French colours from his peak; and by the eddying cloud of vulture sea-fowl that circled, and hovered, and swooped around him, it was plain that the whale alongside must be what the fishermen call a blasted whale, that is, a whale that has died unmolested on the sea, and so floated an unappropriated corpse. It may well be conceived, what an unsavory odor such a mass must exhale; worse than an Assyrian city in the plague, when the living are incompetent to bury the departed. So intolerable indeed is it regarded by
+--------------------------------------------------------------------------------
+#35
+score   : 23
+distinct: 85
+profile : [8, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 152287
+text    : sort of whale must be alongside. As we glided nearer, the stranger showed French colours from his peak; and by the eddying cloud of vulture sea-fowl that circled, and hovered, and swooped around him, it was plain that the whale alongside must be what the fishermen call a blasted whale, that is, a whale that has died unmolested on the sea, and so floated an unappropriated corpse. It may well be conceived, what an unsavory odor such a mass must exhale; worse than an Assyrian city in the plague, when the living are incompetent to bury the departed. So intolerable indeed is it regarded by some, that no cupidity could persuade them to moor alongside of
+--------------------------------------------------------------------------------
+#36
+score   : 23
+distinct: 85
+profile : [9, 4, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 203718
+text    : water hailed her!—“Sail on the”—but that moment a breaking sea dashed on him from Moby Dick, and whelmed him for the time. But struggling out of it again, and chancing to rise on a towering crest, he shouted,—“Sail on the whale!—Drive him off!” The Pequod’s prows were pointed; and breaking up the charmed circle, she effectually parted the white whale from his victim. As he sullenly swam off, the boats flew to the rescue. Dragged into Stubb’s boat with blood-shot, blinded eyes, the white brine caking in his wrinkles; the long tension of Ahab’s bodily strength did crack, and helplessly he yielded to his body’s doom: for a time, lying all crushed in the bottom of
+--------------------------------------------------------------------------------
+#37
+score   : 23
+distinct: 84
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1661/1661-0.txt
+start   : 66494
+text    : our signal,” said Holmes, springing to his feet; “it comes from the middle window.” As we passed out he exchanged a few words with the landlord, explaining that we were going on a late visit to an acquaintance, and that it was possible that we might spend the night there. A moment later we were out on the dark road, a chill wind blowing in our faces, and one yellow light twinkling in front of us through the gloom to guide us on our sombre errand. There was little difficulty in entering the grounds, for unrepaired breaches gaped in the old park wall. Making our way among the trees, we reached the lawn, crossed it, and
+--------------------------------------------------------------------------------
+#38
+score   : 23
+distinct: 84
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1661/1661-0.txt
+start   : 66495
+text    : signal,” said Holmes, springing to his feet; “it comes from the middle window.” As we passed out he exchanged a few words with the landlord, explaining that we were going on a late visit to an acquaintance, and that it was possible that we might spend the night there. A moment later we were out on the dark road, a chill wind blowing in our faces, and one yellow light twinkling in front of us through the gloom to guide us on our sombre errand. There was little difficulty in entering the grounds, for unrepaired breaches gaped in the old park wall. Making our way among the trees, we reached the lawn, crossed it, and were
+--------------------------------------------------------------------------------
+#39
+score   : 24
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 63878
+text    : of the family obstacles which judgment had always opposed to inclination, were dwelt on with a warmth which seemed due to the consequence he was wounding, but was very unlikely to recommend his suit. In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her the strength of that attachment
+--------------------------------------------------------------------------------
+#40
+score   : 24
+distinct: 84
+profile : [9, 6, 5, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 94800
+text    : that she had not prudence enough to hold her tongue before the servants, while they waited at table, and judged it better that _one_ only of the household, and the one whom they could most trust, should comprehend all her fears and solicitude on the subject. In the dining-room they were soon joined by Mary and Kitty, who had been too busily engaged in their separate apartments to make their appearance before. One came from her books, and the other from her toilette. The faces of both, however, were tolerably calm; and no change was visible in either, except that the loss of her favourite sister, or the anger which she had herself incurred in the
+--------------------------------------------------------------------------------
+#41
+score   : 24
+distinct: 86
+profile : [9, 5, 5, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/768/768-0.txt
+start   : 72529
+text    : part, one swearing and the other crying. I believe the master would relish Earnshaw’s thrashing him to a mummy, if he were not his son; and I’m certain he would be fit to turn him out of doors, if he knew half the nursing he gives hisseln. But then he won’t go into danger of temptation: he never enters the parlour, and should Linton show those ways in the house where he is, he sends him upstairs directly.” I divined, from this account, that utter lack of sympathy had rendered young Heathcliff selfish and disagreeable, if he were not so originally; and my interest in him, consequently, decayed: though still I was moved with a sense
+--------------------------------------------------------------------------------
+#42
+score   : 24
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 4962
+text    : dead men, troubled in their graves by the violation of their last wishes, revisiting the earth to punish the perjured and avenge the oppressed; and I thought Mr. Reed’s spirit, harassed by the wrongs of his sister’s child, might quit its abode—whether in the church vault or in the unknown world of the departed—and rise before me in this chamber. I wiped my tears and hushed my sobs, fearful lest any sign of violent grief might waken a preternatural voice to comfort me, or elicit from the gloom some haloed face, bending over me with strange pity. This idea, consolatory in theory, I felt would be terrible if realised: with all my might I endeavoured to
+--------------------------------------------------------------------------------
+#43
+score   : 24
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 4963
+text    : men, troubled in their graves by the violation of their last wishes, revisiting the earth to punish the perjured and avenge the oppressed; and I thought Mr. Reed’s spirit, harassed by the wrongs of his sister’s child, might quit its abode—whether in the church vault or in the unknown world of the departed—and rise before me in this chamber. I wiped my tears and hushed my sobs, fearful lest any sign of violent grief might waken a preternatural voice to comfort me, or elicit from the gloom some haloed face, bending over me with strange pity. This idea, consolatory in theory, I felt would be terrible if realised: with all my might I endeavoured to stifle
+--------------------------------------------------------------------------------
+#44
+score   : 24
+distinct: 86
+profile : [9, 5, 4, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 152823
+text    : this time the faint air had become a complete calm; so that whether or no, the Pequod was now fairly entrapped in the smell, with no hope of escaping except by its breezing up again. Issuing from the cabin, Stubb now called his boat’s crew, and pulled off for the stranger. Drawing across her bow, he perceived that in accordance with the fanciful French taste, the upper part of her stem-piece was carved in the likeness of a huge drooping stalk, was painted green, and for thorns had copper spikes projecting from it here and there; the whole terminating in a symmetrical folded bulb of a bright red colour. Upon her head boards, in large gilt
+--------------------------------------------------------------------------------
+#45
+score   : 25
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 58521
+text    : my own chamber for the night, that I steadily reviewed the tale Mr. Rochester had told me. As he had said, there was probably nothing at all extraordinary in the substance of the narrative itself: a wealthy Englishman’s passion for a French dancer, and her treachery to him, were every-day matters enough, no doubt, in society; but there was something decidedly strange in the paroxysm of emotion which had suddenly seized him when he was in the act of expressing the present contentment of his mood, and his newly revived pleasure in the old hall and its environs. I meditated wonderingly on this incident; but gradually quitting it, as I found it for the present inexplicable,
+--------------------------------------------------------------------------------
+#46
+score   : 25
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 22591
+text    : That, Virtue, as had been observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country. That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr. Attorney-General) was prepared to
+--------------------------------------------------------------------------------
+#47
+score   : 25
+distinct: 86
+profile : [9, 5, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 22593
+text    : as had been observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country. That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr. Attorney-General) was prepared to hear some
+--------------------------------------------------------------------------------
+#48
+score   : 25
+distinct: 84
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 77500
+text    : from a bed that was on fire. Yet these, perhaps, instead of being the unsuppressable symptoms of some latent weakness, or fright at his own resolve, were but the plainest tokens of its intensity. For, at such times, crazy Ahab, the scheming, unappeasedly steadfast hunter of the white whale; this Ahab that had gone to his hammock, was not the agent that so caused him to burst from it in horror again. The latter was the eternal, living principle or soul in him; and in sleep, being for the time dissociated from the characterizing mind, which at other times employed it for its outer vehicle or agent, it spontaneously sought escape from the scorching contiguity of
+--------------------------------------------------------------------------------
+#49
+score   : 25
+distinct: 86
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 112432
+text    : or more jovial spirits, than around a dead sperm whale, moored by night to a whaleship at sea. If you have never seen that sight, then suspend your decision about the propriety of devil-worship, and the expediency of conciliating the devil. But, as yet, Stubb heeded not the mumblings of the banquet that was going on so nigh him, no more than the sharks heeded the smacking of his own epicurean lips. “Cook, cook!—where’s that old Fleece?” he cried at length, widening his legs still further, as if to form a more secure base for his supper; and, at the same time darting his fork into the dish, as if stabbing with his lance; “cook, you
+--------------------------------------------------------------------------------
+#50
+score   : 25
+distinct: 86
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 112433
+text    : more jovial spirits, than around a dead sperm whale, moored by night to a whaleship at sea. If you have never seen that sight, then suspend your decision about the propriety of devil-worship, and the expediency of conciliating the devil. But, as yet, Stubb heeded not the mumblings of the banquet that was going on so nigh him, no more than the sharks heeded the smacking of his own epicurean lips. “Cook, cook!—where’s that old Fleece?” he cried at length, widening his legs still further, as if to form a more secure base for his supper; and, at the same time darting his fork into the dish, as if stabbing with his lance; “cook, you cook!—sail
+--------------------------------------------------------------------------------
+#51
+score   : 25
+distinct: 85
+profile : [9, 4, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 203715
+text    : Ahab in the water hailed her!—“Sail on the”—but that moment a breaking sea dashed on him from Moby Dick, and whelmed him for the time. But struggling out of it again, and chancing to rise on a towering crest, he shouted,—“Sail on the whale!—Drive him off!” The Pequod’s prows were pointed; and breaking up the charmed circle, she effectually parted the white whale from his victim. As he sullenly swam off, the boats flew to the rescue. Dragged into Stubb’s boat with blood-shot, blinded eyes, the white brine caking in his wrinkles; the long tension of Ahab’s bodily strength did crack, and helplessly he yielded to his body’s doom: for a time, lying all crushed in
+--------------------------------------------------------------------------------
+#52
+score   : 25
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1661/1661-0.txt
+start   : 66493
+text    : is our signal,” said Holmes, springing to his feet; “it comes from the middle window.” As we passed out he exchanged a few words with the landlord, explaining that we were going on a late visit to an acquaintance, and that it was possible that we might spend the night there. A moment later we were out on the dark road, a chill wind blowing in our faces, and one yellow light twinkling in front of us through the gloom to guide us on our sombre errand. There was little difficulty in entering the grounds, for unrepaired breaches gaped in the old park wall. Making our way among the trees, we reached the lawn, crossed it,
+--------------------------------------------------------------------------------
+#53
+score   : 25
+distinct: 87
+profile : [9, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/84/84-0.txt
+start   : 13985
+text    : grave or tortured the living animal to animate the lifeless clay? My limbs now tremble, and my eyes swim with the remembrance; but then a resistless and almost frantic impulse urged me forward; I seemed to have lost all soul or sensation but for this one pursuit. It was indeed but a passing trance, that only made me feel with renewed acuteness so soon as, the unnatural stimulus ceasing to operate, I had returned to my old habits. I collected bones from charnel-houses and disturbed, with profane fingers, the tremendous secrets of the human frame. In a solitary chamber, or rather cell, at the top of the house, and separated from all the other apartments by
+--------------------------------------------------------------------------------
+#54
+score   : 26
+distinct: 86
+profile : [9, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 3808
+text    : slight pertness, but that is nothing, and when she comes to serious business, as in the great proposal scene with Darcy (which is, as it should be, the climax of the interest of the book), and in the final ladies’ battle with Lady Catherine, she is unexceptionable. Then too she is a perfectly natural girl. She does not disguise from herself or anybody that she resents Darcy’s first ill-mannered personality with as personal a feeling. (By the way, the reproach that the ill-manners of this speech are overdone is certainly unjust; for things of the same kind, expressed no doubt less stiltedly but more coarsely, might have been heard in more than one ball-room during this
+--------------------------------------------------------------------------------
+#55
+score   : 26
+distinct: 86
+profile : [9, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 3809
+text    : pertness, but that is nothing, and when she comes to serious business, as in the great proposal scene with Darcy (which is, as it should be, the climax of the interest of the book), and in the final ladies’ battle with Lady Catherine, she is unexceptionable. Then too she is a perfectly natural girl. She does not disguise from herself or anybody that she resents Darcy’s first ill-mannered personality with as personal a feeling. (By the way, the reproach that the ill-manners of this speech are overdone is certainly unjust; for things of the same kind, expressed no doubt less stiltedly but more coarsely, might have been heard in more than one ball-room during this very
+--------------------------------------------------------------------------------
+#56
+score   : 26
+distinct: 87
+profile : [9, 5, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 6526
+text    : awe, and left nothing but tender affection. Their increasing attachment was not to be satisfied with half a dozen turns in the pump-room, but required, when they all quitted it together, that Miss Thorpe should accompany Miss Morland to the very door of Mr. Allen’s house; and that they should there part with a most affectionate and lengthened shake of hands, after learning, to their mutual relief, that they should see each other across the theatre at night, and say their prayers in the same chapel the next morning. Catherine then ran directly upstairs, and watched Miss Thorpe’s progress down the street from the drawing-room window; admired the graceful spirit of her walk, the fashionable air
+--------------------------------------------------------------------------------
+#57
+score   : 26
+distinct: 83
+profile : [9, 6, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 15387
+text    : to seek her for that purpose, in the pump-room at noon. In the pump-room, one so newly arrived in Bath must be met with, and that building she had already found so favourable for the discovery of female excellence, and the completion of female intimacy, so admirably adapted for secret discourses and unlimited confidence, that she was most reasonably encouraged to expect another friend from within its walls. Her plan for the morning thus settled, she sat quietly down to her book after breakfast, resolving to remain in the same place and the same employment till the clock struck one; and from habitude very little incommoded by the remarks and ejaculations of Mrs. Allen, whose vacancy
+--------------------------------------------------------------------------------
+#58
+score   : 26
+distinct: 83
+profile : [9, 6, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 15388
+text    : seek her for that purpose, in the pump-room at noon. In the pump-room, one so newly arrived in Bath must be met with, and that building she had already found so favourable for the discovery of female excellence, and the completion of female intimacy, so admirably adapted for secret discourses and unlimited confidence, that she was most reasonably encouraged to expect another friend from within its walls. Her plan for the morning thus settled, she sat quietly down to her book after breakfast, resolving to remain in the same place and the same employment till the clock struck one; and from habitude very little incommoded by the remarks and ejaculations of Mrs. Allen, whose vacancy of
+--------------------------------------------------------------------------------
+#59
+score   : 26
+distinct: 83
+profile : [9, 6, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 15389
+text    : her for that purpose, in the pump-room at noon. In the pump-room, one so newly arrived in Bath must be met with, and that building she had already found so favourable for the discovery of female excellence, and the completion of female intimacy, so admirably adapted for secret discourses and unlimited confidence, that she was most reasonably encouraged to expect another friend from within its walls. Her plan for the morning thus settled, she sat quietly down to her book after breakfast, resolving to remain in the same place and the same employment till the clock struck one; and from habitude very little incommoded by the remarks and ejaculations of Mrs. Allen, whose vacancy of mind
+--------------------------------------------------------------------------------
+#60
+score   : 26
+distinct: 86
+profile : [9, 5, 5, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/768/768-0.txt
+start   : 72523
+text    : bad-natured, though he’s rough—they’re sure to part, one swearing and the other crying. I believe the master would relish Earnshaw’s thrashing him to a mummy, if he were not his son; and I’m certain he would be fit to turn him out of doors, if he knew half the nursing he gives hisseln. But then he won’t go into danger of temptation: he never enters the parlour, and should Linton show those ways in the house where he is, he sends him upstairs directly.” I divined, from this account, that utter lack of sympathy had rendered young Heathcliff selfish and disagreeable, if he were not so originally; and my interest in him, consequently, decayed: though still
+--------------------------------------------------------------------------------
+#61
+score   : 26
+distinct: 85
+profile : [9, 6, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 13834
+text    : by sun or breeze, through the grounds. I covered my head and arms with the skirt of my frock, and went out to walk in a part of the plantation which was quite sequestrated; but I found no pleasure in the silent trees, the falling fir-cones, the congealed relics of autumn, russet leaves, swept by past winds in heaps, and now stiffened together. I leaned against a gate, and looked into an empty field where no sheep were feeding, where the short grass was nipped and blanched. It was a very grey day; a most opaque sky, “onding on snaw,” canopied all; thence flakes fell at intervals, which settled on the hard path and on the
+--------------------------------------------------------------------------------
+#62
+score   : 26
+distinct: 86
+profile : [8, 6, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 15992
+text    : with great deal tables, two at each end, on each of which burnt a pair of candles, and seated all round on benches, a congregation of girls of every age, from nine or ten to twenty. Seen by the dim light of the dips, their number to me appeared countless, though not in reality exceeding eighty; they were uniformly dressed in brown stuff frocks of quaint fashion, and long holland pinafores. It was the hour of study; they were engaged in conning over their to-morrow’s task, and the hum I had heard was the combined result of their whispered repetitions. Miss Miller signed to me to sit on a bench near the door, then walking up
+--------------------------------------------------------------------------------
+#63
+score   : 26
+distinct: 88
+profile : [9, 5, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 22595
+text    : been observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country. That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr. Attorney-General) was prepared to hear some disparagement attempted
+--------------------------------------------------------------------------------
+#64
+score   : 26
+distinct: 86
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 29234
+text    : what it may come to. Good night!” When he was left alone, this strange being took up a candle, went to a glass that hung against the wall, and surveyed himself minutely in it. “Do you particularly like the man?” he muttered, at his own image; “why should you particularly like a man who resembles you? There is nothing in you to like; you know that. Ah, confound you! What a change you have made in yourself! A good reason for taking to a man, that he shows you what you have fallen away from, and what you might have been! Change places with him, and would you have been looked at by those blue eyes
+--------------------------------------------------------------------------------
+#65
+score   : 26
+distinct: 83
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1400/1400-0.txt
+start   : 177439
+text    : old simplicity, and in the old unassertive protecting way, so that I would half believe that all my life since the days of the old kitchen was one of the mental troubles of the fever that was gone. He did everything for me except the household work, for which he had engaged a very decent woman, after paying off the laundress on his first arrival. “Which I do assure you, Pip,” he would often say, in explanation of that liberty; “I found her a tapping the spare bed, like a cask of beer, and drawing off the feathers in a bucket, for sale. Which she would have tapped yourn next, and draw’d it off with you
+--------------------------------------------------------------------------------
+#66
+score   : 26
+distinct: 83
+profile : [9, 5, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1400/1400-0.txt
+start   : 177440
+text    : simplicity, and in the old unassertive protecting way, so that I would half believe that all my life since the days of the old kitchen was one of the mental troubles of the fever that was gone. He did everything for me except the household work, for which he had engaged a very decent woman, after paying off the laundress on his first arrival. “Which I do assure you, Pip,” he would often say, in explanation of that liberty; “I found her a tapping the spare bed, like a cask of beer, and drawing off the feathers in a bucket, for sale. Which she would have tapped yourn next, and draw’d it off with you a
+--------------------------------------------------------------------------------
+#67
+score   : 26
+distinct: 85
+profile : [10, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/2701/2701-0.txt
+start   : 44398
+text    : whale-ship luckily dropping an anchor in their waters. The uncounted isles of all Polynesia confess the same truth, and do commercial homage to the whale-ship, that cleared the way for the missionary and the merchant, and in many cases carried the primitive missionaries to their first destinations. If that double-bolted land, Japan, is ever to become hospitable, it is the whale-ship alone to whom the credit will be due; for already she is on the threshold. But if, in the face of all this, you still declare that whaling has no æsthetically noble associations connected with it, then am I ready to shiver fifty lances with you there, and unhorse you with a split helmet every
+--------------------------------------------------------------------------------
+#68
+score   : 27
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 3796
+text    : phrase and manner give one or two of her early speeches a slight pertness, but that is nothing, and when she comes to serious business, as in the great proposal scene with Darcy (which is, as it should be, the climax of the interest of the book), and in the final ladies’ battle with Lady Catherine, she is unexceptionable. Then too she is a perfectly natural girl. She does not disguise from herself or anybody that she resents Darcy’s first ill-mannered personality with as personal a feeling. (By the way, the reproach that the ill-manners of this speech are overdone is certainly unjust; for things of the same kind, expressed no doubt less stiltedly but more
+--------------------------------------------------------------------------------
+#69
+score   : 27
+distinct: 86
+profile : [9, 5, 5, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/768/768-0.txt
+start   : 72519
+text    : amuse him—Hareton is not bad-natured, though he’s rough—they’re sure to part, one swearing and the other crying. I believe the master would relish Earnshaw’s thrashing him to a mummy, if he were not his son; and I’m certain he would be fit to turn him out of doors, if he knew half the nursing he gives hisseln. But then he won’t go into danger of temptation: he never enters the parlour, and should Linton show those ways in the house where he is, he sends him upstairs directly.” I divined, from this account, that utter lack of sympathy had rendered young Heathcliff selfish and disagreeable, if he were not so originally; and my interest in him,
+--------------------------------------------------------------------------------
+#70
+score   : 27
+distinct: 87
+profile : [9, 5, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 11032
+text    : sable-clad shape standing erect on the rug: the grim face at the top was like a carved mask, placed above the shaft by way of capital. Mrs. Reed occupied her usual seat by the fireside; she made a signal to me to approach; I did so, and she introduced me to the stony stranger with the words: “This is the little girl respecting whom I applied to you.” _He_, for it was a man, turned his head slowly towards where I stood, and having examined me with the two inquisitive-looking grey eyes which twinkled under a pair of bushy brows, said solemnly, and in a bass voice, “Her size is small: what is her age?” “Ten
+--------------------------------------------------------------------------------
+#71
+score   : 27
+distinct: 85
+profile : [9, 4, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 54362
+text    : it,—I am not a villain: you are not to suppose that—not to attribute to me any such bad eminence; but, owing, I verily believe, rather to circumstances than to my natural bent, I am a trite commonplace sinner, hackneyed in all the poor petty dissipations with which the rich and worthless try to put on life. Do you wonder that I avow this to you? Know, that in the course of your future life you will often find yourself elected the involuntary confidant of your acquaintances’ secrets: people will instinctively find out, as I have done, that it is not your forte to tell of yourself, but to listen while others talk of themselves; they will
+--------------------------------------------------------------------------------
+#72
+score   : 27
+distinct: 85
+profile : [9, 4, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 54363
+text    : am not a villain: you are not to suppose that—not to attribute to me any such bad eminence; but, owing, I verily believe, rather to circumstances than to my natural bent, I am a trite commonplace sinner, hackneyed in all the poor petty dissipations with which the rich and worthless try to put on life. Do you wonder that I avow this to you? Know, that in the course of your future life you will often find yourself elected the involuntary confidant of your acquaintances’ secrets: people will instinctively find out, as I have done, that it is not your forte to tell of yourself, but to listen while others talk of themselves; they will feel,
+--------------------------------------------------------------------------------
+#73
+score   : 27
+distinct: 86
+profile : [9, 5, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 22592
+text    : Virtue, as had been observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country. That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr. Attorney-General) was prepared to hear
+--------------------------------------------------------------------------------
+#74
+score   : 27
+distinct: 83
+profile : [9, 5, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 130284
+text    : a strong and fearless character, of shrewd sense and readiness, of great determination, of that kind of beauty which not only seems to impart to its possessor firmness and animosity, but to strike into others an instinctive recognition of those qualities; the troubled time would have heaved her up, under any circumstances. But, imbued from her childhood with a brooding sense of wrong, and an inveterate hatred of a class, opportunity had developed her into a tigress. She was absolutely without pity. If she had ever had the virtue in her, it had quite gone out of her. It was nothing to her, that an innocent man was to die for the sins of his forefathers;
+--------------------------------------------------------------------------------
+#75
+score   : 27
+distinct: 84
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1661/1661-0.txt
+start   : 66496
+text    : said Holmes, springing to his feet; “it comes from the middle window.” As we passed out he exchanged a few words with the landlord, explaining that we were going on a late visit to an acquaintance, and that it was possible that we might spend the night there. A moment later we were out on the dark road, a chill wind blowing in our faces, and one yellow light twinkling in front of us through the gloom to guide us on our sombre errand. There was little difficulty in entering the grounds, for unrepaired breaches gaped in the old park wall. Making our way among the trees, we reached the lawn, crossed it, and were about
+--------------------------------------------------------------------------------
+#76
+score   : 27
+distinct: 85
+profile : [10, 4, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/84/84-0.txt
+start   : 13982
+text    : damps of the grave or tortured the living animal to animate the lifeless clay? My limbs now tremble, and my eyes swim with the remembrance; but then a resistless and almost frantic impulse urged me forward; I seemed to have lost all soul or sensation but for this one pursuit. It was indeed but a passing trance, that only made me feel with renewed acuteness so soon as, the unnatural stimulus ceasing to operate, I had returned to my old habits. I collected bones from charnel-houses and disturbed, with profane fingers, the tremendous secrets of the human frame. In a solitary chamber, or rather cell, at the top of the house, and separated from all the
+--------------------------------------------------------------------------------
+#77
+score   : 27
+distinct: 85
+profile : [10, 4, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/84/84-0.txt
+start   : 13983
+text    : of the grave or tortured the living animal to animate the lifeless clay? My limbs now tremble, and my eyes swim with the remembrance; but then a resistless and almost frantic impulse urged me forward; I seemed to have lost all soul or sensation but for this one pursuit. It was indeed but a passing trance, that only made me feel with renewed acuteness so soon as, the unnatural stimulus ceasing to operate, I had returned to my old habits. I collected bones from charnel-houses and disturbed, with profane fingers, the tremendous secrets of the human frame. In a solitary chamber, or rather cell, at the top of the house, and separated from all the other
+--------------------------------------------------------------------------------
+#78
+score   : 27
+distinct: 86
+profile : [9, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/84/84-0.txt
+start   : 13986
+text    : or tortured the living animal to animate the lifeless clay? My limbs now tremble, and my eyes swim with the remembrance; but then a resistless and almost frantic impulse urged me forward; I seemed to have lost all soul or sensation but for this one pursuit. It was indeed but a passing trance, that only made me feel with renewed acuteness so soon as, the unnatural stimulus ceasing to operate, I had returned to my old habits. I collected bones from charnel-houses and disturbed, with profane fingers, the tremendous secrets of the human frame. In a solitary chamber, or rather cell, at the top of the house, and separated from all the other apartments by a
+--------------------------------------------------------------------------------
+#79
+score   : 27
+distinct: 86
+profile : [9, 5, 4, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/84/84-0.txt
+start   : 13988
+text    : the living animal to animate the lifeless clay? My limbs now tremble, and my eyes swim with the remembrance; but then a resistless and almost frantic impulse urged me forward; I seemed to have lost all soul or sensation but for this one pursuit. It was indeed but a passing trance, that only made me feel with renewed acuteness so soon as, the unnatural stimulus ceasing to operate, I had returned to my old habits. I collected bones from charnel-houses and disturbed, with profane fingers, the tremendous secrets of the human frame. In a solitary chamber, or rather cell, at the top of the house, and separated from all the other apartments by a gallery and
+--------------------------------------------------------------------------------
+#80
+score   : 28
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/161/161-0.txt
+start   : 118525
+text    : hear of her marriage without a pang; and his punishment was soon afterwards complete in the voluntary forgiveness of Mrs. Smith, who, by stating his marriage with a woman of character, as the source of her clemency, gave him reason for believing that had he behaved with honour towards Marianne, he might at once have been happy and rich. That his repentance of misconduct, which thus brought its own punishment, was sincere, need not be doubted;—nor that he long thought of Colonel Brandon with envy, and of Marianne with regret. But that he was for ever inconsolable, that he fled from society, or contracted an habitual gloom of temper, or died of a broken heart, must
+--------------------------------------------------------------------------------
+#81
+score   : 28
+distinct: 86
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 6531
+text    : tender affection. Their increasing attachment was not to be satisfied with half a dozen turns in the pump-room, but required, when they all quitted it together, that Miss Thorpe should accompany Miss Morland to the very door of Mr. Allen’s house; and that they should there part with a most affectionate and lengthened shake of hands, after learning, to their mutual relief, that they should see each other across the theatre at night, and say their prayers in the same chapel the next morning. Catherine then ran directly upstairs, and watched Miss Thorpe’s progress down the street from the drawing-room window; admired the graceful spirit of her walk, the fashionable air of her figure and dress;
+--------------------------------------------------------------------------------
+#82
+score   : 28
+distinct: 85
+profile : [9, 5, 4, 4, 4, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 62488
+text    : the circumstance which had produced it. CHAPTER 26 From this time, the subject was frequently canvassed by the three young people; and Catherine found, with some surprise, that her two young friends were perfectly agreed in considering Isabella’s want of consequence and fortune as likely to throw great difficulties in the way of her marrying their brother. Their persuasion that the General would, upon this ground alone, independent of the objection that might be raised against her character, oppose the connection, turned her feelings moreover with some alarm towards herself. She was as insignificant, and perhaps as portionless, as Isabella; and if the heir of the Tilney property had not grandeur and wealth enough in himself,
+--------------------------------------------------------------------------------
+#83
+score   : 28
+distinct: 88
+profile : [9, 5, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 64036
+text    : It did come, and exactly when it might be reasonably looked for. It came—it was fine—and Catherine trod on air. By ten o’clock, the chaise and four conveyed the trio from the abbey; and, after an agreeable drive of almost twenty miles, they entered Woodston, a large and populous village, in a situation not unpleasant. Catherine was ashamed to say how pretty she thought it, as the General seemed to think an apology necessary for the flatness of the country, and the size of the village; but in her heart she preferred it to any place she had ever been at, and looked with great admiration at every neat house above the rank of a cottage,
+--------------------------------------------------------------------------------
+#84
+score   : 28
+distinct: 87
+profile : [9, 6, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 64038
+text    : come, and exactly when it might be reasonably looked for. It came—it was fine—and Catherine trod on air. By ten o’clock, the chaise and four conveyed the trio from the abbey; and, after an agreeable drive of almost twenty miles, they entered Woodston, a large and populous village, in a situation not unpleasant. Catherine was ashamed to say how pretty she thought it, as the General seemed to think an apology necessary for the flatness of the country, and the size of the village; but in her heart she preferred it to any place she had ever been at, and looked with great admiration at every neat house above the rank of a cottage, and at
+--------------------------------------------------------------------------------
+#85
+score   : 28
+distinct: 86
+profile : [9, 5, 4, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 65561
+text    : explain everything to his satisfaction; or, if he still harbours any doubt, a line from himself to me, or a call at Putney when next in town, might set all to rights. I have not been to the Rooms this age, nor to the play, except going in last night with the Hodges, for a frolic, at half price: they teased me into it; and I was determined they should not say I shut myself up because Tilney was gone. We happened to sit by the Mitchells, and they pretended to be quite surprised to see me out. I knew their spite: at one time they could not be civil to me, but now they are
+--------------------------------------------------------------------------------
+#86
+score   : 28
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 4964
+text    : troubled in their graves by the violation of their last wishes, revisiting the earth to punish the perjured and avenge the oppressed; and I thought Mr. Reed’s spirit, harassed by the wrongs of his sister’s child, might quit its abode—whether in the church vault or in the unknown world of the departed—and rise before me in this chamber. I wiped my tears and hushed my sobs, fearful lest any sign of violent grief might waken a preternatural voice to comfort me, or elicit from the gloom some haloed face, bending over me with strange pity. This idea, consolatory in theory, I felt would be terrible if realised: with all my might I endeavoured to stifle it—I
+--------------------------------------------------------------------------------
+#87
+score   : 28
+distinct: 85
+profile : [9, 6, 5, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 10342
+text    : a store in a drawer in the attic. I was making my bed, having received strict orders from Bessie to get it arranged before she returned (for Bessie now frequently employed me as a sort of under-nurserymaid, to tidy the room, dust the chairs, &c.). Having spread the quilt and folded my night-dress, I went to the window-seat to put in order some picture-books and doll’s house furniture scattered there; an abrupt command from Georgiana to let her playthings alone (for the tiny chairs and mirrors, the fairy plates and cups, were her property) stopped my proceedings; and then, for lack of other occupation, I fell to breathing on the frost-flowers with which the window was
+--------------------------------------------------------------------------------
+#88
+score   : 28
+distinct: 85
+profile : [8, 6, 5, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 15993
+text    : great deal tables, two at each end, on each of which burnt a pair of candles, and seated all round on benches, a congregation of girls of every age, from nine or ten to twenty. Seen by the dim light of the dips, their number to me appeared countless, though not in reality exceeding eighty; they were uniformly dressed in brown stuff frocks of quaint fashion, and long holland pinafores. It was the hour of study; they were engaged in conning over their to-morrow’s task, and the hum I had heard was the combined result of their whispered repetitions. Miss Miller signed to me to sit on a bench near the door, then walking up to
+--------------------------------------------------------------------------------
+#89
+score   : 28
+distinct: 87
+profile : [8, 4, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 149662
+text    : could already read, write, and sew; and to them I taught the elements of grammar, geography, history, and the finer kinds of needlework. I found estimable characters amongst them—characters desirous of information and disposed for improvement—with whom I passed many a pleasant evening hour in their own homes. Their parents then (the farmer and his wife) loaded me with attentions. There was an enjoyment in accepting their simple kindness, and in repaying it by a consideration—a scrupulous regard to their feelings—to which they were not, perhaps, at all times accustomed, and which both charmed and benefited them; because, while it elevated them in their own eyes, it made them emulous to merit the deferential treatment they
+--------------------------------------------------------------------------------
+#90
+score   : 28
+distinct: 85
+profile : [9, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 9281
+text    : The accident had happened in getting it out of a cart; the cask had tumbled out with a run, the hoops had burst, and it lay on the stones just outside the door of the wine-shop, shattered like a walnut-shell. All the people within reach had suspended their business, or their idleness, to run to the spot and drink the wine. The rough, irregular stones of the street, pointing every way, and designed, one might have thought, expressly to lame all living creatures that approached them, had dammed it into little pools; these were surrounded, each by its own jostling group or crowd, according to its size. Some men kneeled down, made scoops of their two
+--------------------------------------------------------------------------------
+#91
+score   : 28
+distinct: 87
+profile : [9, 5, 4, 4, 3, 3, 2, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 22596
+text    : observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country. That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr. Attorney-General) was prepared to hear some disparagement attempted of
+--------------------------------------------------------------------------------
+#92
+score   : 28
+distinct: 87
+profile : [9, 5, 4, 4, 3, 3, 2, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 87557
+text    : strange it was to him to act in anything without her quiet aid), and the day passed quickly. Early in the evening he embraced her, and her scarcely less dear namesake, pretending that he would return by-and-bye (an imaginary engagement took him out, and he had secreted a valise of clothes ready), and so he emerged into the heavy mist of the heavy streets, with a heavier heart. The unseen force was drawing him fast to itself, now, and all the tides and winds were setting straight and strong towards it. He left his two letters with a trusty porter, to be delivered half an hour before midnight, and no sooner; took horse for Dover; and
+--------------------------------------------------------------------------------
+#93
+score   : 28
+distinct: 87
+profile : [9, 5, 4, 4, 3, 3, 2, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/98/98-0.txt
+start   : 87558
+text    : it was to him to act in anything without her quiet aid), and the day passed quickly. Early in the evening he embraced her, and her scarcely less dear namesake, pretending that he would return by-and-bye (an imaginary engagement took him out, and he had secreted a valise of clothes ready), and so he emerged into the heavy mist of the heavy streets, with a heavier heart. The unseen force was drawing him fast to itself, now, and all the tides and winds were setting straight and strong towards it. He left his two letters with a trusty porter, to be delivered half an hour before midnight, and no sooner; took horse for Dover; and began
+--------------------------------------------------------------------------------
+#94
+score   : 29
+distinct: 83
+profile : [9, 5, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 32748
+text    : took her place in the set, amazed at the dignity to which she was arrived in being allowed to stand opposite to Mr. Darcy, and reading in her neighbours’ looks their equal amazement in beholding it. They stood for some time without speaking a word; and she began to imagine that their silence was to last through the two dances, and, at first, was resolved not to break it; till suddenly fancying that it would be the greater punishment to her partner to oblige him to talk, she made some slight observation on the dance. He replied, and was again silent. After a pause of some minutes, she addressed him a second time, with-- “It is
+--------------------------------------------------------------------------------
+#95
+score   : 29
+distinct: 83
+profile : [9, 5, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1342/1342-0.txt
+start   : 32749
+text    : her place in the set, amazed at the dignity to which she was arrived in being allowed to stand opposite to Mr. Darcy, and reading in her neighbours’ looks their equal amazement in beholding it. They stood for some time without speaking a word; and she began to imagine that their silence was to last through the two dances, and, at first, was resolved not to break it; till suddenly fancying that it would be the greater punishment to her partner to oblige him to talk, she made some slight observation on the dance. He replied, and was again silent. After a pause of some minutes, she addressed him a second time, with-- “It is _your_
+--------------------------------------------------------------------------------
+#96
+score   : 29
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/121/121-0.txt
+start   : 6530
+text    : but tender affection. Their increasing attachment was not to be satisfied with half a dozen turns in the pump-room, but required, when they all quitted it together, that Miss Thorpe should accompany Miss Morland to the very door of Mr. Allen’s house; and that they should there part with a most affectionate and lengthened shake of hands, after learning, to their mutual relief, that they should see each other across the theatre at night, and say their prayers in the same chapel the next morning. Catherine then ran directly upstairs, and watched Miss Thorpe’s progress down the street from the drawing-room window; admired the graceful spirit of her walk, the fashionable air of her figure and
+--------------------------------------------------------------------------------
+#97
+score   : 29
+distinct: 86
+profile : [9, 5, 5, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/768/768-0.txt
+start   : 72525
+text    : he’s rough—they’re sure to part, one swearing and the other crying. I believe the master would relish Earnshaw’s thrashing him to a mummy, if he were not his son; and I’m certain he would be fit to turn him out of doors, if he knew half the nursing he gives hisseln. But then he won’t go into danger of temptation: he never enters the parlour, and should Linton show those ways in the house where he is, he sends him upstairs directly.” I divined, from this account, that utter lack of sympathy had rendered young Heathcliff selfish and disagreeable, if he were not so originally; and my interest in him, consequently, decayed: though still I was
+--------------------------------------------------------------------------------
+#98
+score   : 29
+distinct: 86
+profile : [9, 5, 5, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/768/768-0.txt
+start   : 72526
+text    : rough—they’re sure to part, one swearing and the other crying. I believe the master would relish Earnshaw’s thrashing him to a mummy, if he were not his son; and I’m certain he would be fit to turn him out of doors, if he knew half the nursing he gives hisseln. But then he won’t go into danger of temptation: he never enters the parlour, and should Linton show those ways in the house where he is, he sends him upstairs directly.” I divined, from this account, that utter lack of sympathy had rendered young Heathcliff selfish and disagreeable, if he were not so originally; and my interest in him, consequently, decayed: though still I was moved
+--------------------------------------------------------------------------------
+#99
+score   : 29
+distinct: 86
+profile : [9, 5, 5, 3, 3, 3, 3, 3, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/768/768-0.txt
+start   : 72527
+text    : sure to part, one swearing and the other crying. I believe the master would relish Earnshaw’s thrashing him to a mummy, if he were not his son; and I’m certain he would be fit to turn him out of doors, if he knew half the nursing he gives hisseln. But then he won’t go into danger of temptation: he never enters the parlour, and should Linton show those ways in the house where he is, he sends him upstairs directly.” I divined, from this account, that utter lack of sympathy had rendered young Heathcliff selfish and disagreeable, if he were not so originally; and my interest in him, consequently, decayed: though still I was moved with
+--------------------------------------------------------------------------------
+#100
+score   : 29
+distinct: 85
+profile : [9, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2]
+source  : https://www.gutenberg.org/files/1260/1260-0.txt
+start   : 58519
+text    : withdrawn to my own chamber for the night, that I steadily reviewed the tale Mr. Rochester had told me. As he had said, there was probably nothing at all extraordinary in the substance of the narrative itself: a wealthy Englishman’s passion for a French dancer, and her treachery to him, were every-day matters enough, no doubt, in society; but there was something decidedly strange in the paroxysm of emotion which had suddenly seized him when he was in the act of expressing the present contentment of his mood, and his newly revived pleasure in the old hall and its environs. I meditated wonderingly on this incident; but gradually quitting it, as I found it for the
+--------------------------------------------------------------------------------

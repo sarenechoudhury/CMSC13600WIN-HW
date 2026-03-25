@@ -19,6 +19,14 @@
             background-color: yellow;
             padding: 2px 6px;
         }
+
+        .nav-links {
+            margin-top: 20px;
+        }
+
+        .nav-links a {
+            margin: 0 10px;
+        }
     </style>
 </head>
 <body>
@@ -38,6 +46,10 @@
                 <span class="highlight-user">{{ user.username }}</span>
             </p>
             <p>You are currently signed in.</p>
+
+            <p>
+                <a href="/accounts/logout/">Log out</a>
+            </p>
         {% else %}
             <p>Not logged in.</p>
             <p>
@@ -45,6 +57,14 @@
                 <a href="/app/new/">Create a new account</a>
             </p>
         {% endif %}
+
+        <div class="nav-links">
+            <p>
+                <a href="/app/show-uploads/">Uploads Page</a> |
+                <a href="/app/new/">Create Account</a> |
+                <a href="/app/api/dump-uploads/">Upload JSON</a>
+            </p>
+        </div>
     </div>
 </body>
 </html>

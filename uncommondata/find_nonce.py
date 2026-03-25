@@ -11,6 +11,7 @@ def good_hash(digest: bytes) -> bool:
 def worker(start: int, step: int, stop: mp.Event, q: mp.Queue) -> None:
     i = start
     cnet = CNET_ID.encode("utf-8")
+
     while not stop.is_set():
         digest = hashlib.sha256(cnet + str(i).encode("utf-8")).digest()
 
@@ -19,7 +20,7 @@ def worker(start: int, step: int, stop: mp.Event, q: mp.Queue) -> None:
             stop.set()
             return
 
-        if i % 5_000_000 == start:
+        if (i - start) % 5_000_000 == 0:
             q.put(("progress", start, i))
 
         i += step
@@ -38,6 +39,9 @@ if __name__ == "__main__":
         p.start()
         procs.append(p)
 
+    nonce = None
+    digest = None
+
     while True:
         msg = q.get()
         if isinstance(msg, tuple) and len(msg) == 2 and isinstance(msg[0], int):
@@ -55,3 +59,7 @@ if __name__ == "__main__":
     for p in procs:
         p.terminate()
         p.join()
+
+    if nonce is not None:
+        print(f'\nPut this in puzzle.py:')
+        print(f'nonce = "{nonce}"')
